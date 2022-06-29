@@ -1,0 +1,14 @@
+cdm_table_name,count_failed
+condition_era,1
+condition_occurrence,3
+cost,2
+dose_era,1
+drug_era,1
+drug_exposure,7
+measurement,16
+note_nlp,2
+observation,3
+observation_period,2
+procedure_occurrence,2
+specimen,1
+visit_occurrence,1

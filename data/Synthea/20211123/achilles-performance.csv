@@ -1,0 +1,271 @@
+analysis_id,analysis_name,elapsed_seconds
+10,Number of all persons by year of birth by gender,1.50
+501,"Number of records of death, by cause_concept_id",0.03
+1407,Length of payer plan (days) of first payer plan period by age decile,0.04
+1409,Number of persons with continuous payer plan in each year,0.04
+1813,Number of measurement records with invalid visit_id,0.05
+2200,Number of persons with at least one note by  note_type_concept_id,0.03
+810,Number of observation records outside valid observation period,0.02
+620,Number of procedure occurrence records  by procedure occurrence start month,1.00
+416,"Number of condition occurrence records, by condition_status_concept_id, condition_type_concept_id",1.57
+200,"Number of persons with at least one visit occurrence, by visit_concept_id",0.03
+920,Number of drug era records by drug era start month,0.03
+420,Number of condition occurrence records by condition occurrence start month,0.02
+2131,Proportion of people with at least one device_exposure record outside a valid observation period,0.03
+600,"Number of persons with at least one procedure occurrence, by procedure_concept_id",0.02
+800,"Number of persons with at least one observation occurrence, by observation_concept_id",0.04
+117,Number of persons with at least one day of observation in each month,1.22
+530,Number of death records inside a valid observation period,0.03
+700,"Number of persons with at least one drug exposure, by drug_concept_id",0.91
+1820,Number of measurement records  by measurement start month,0.88
+904,"Number of persons with at least one drug era, by drug_concept_id by calendar year by gender by age decile",0.02
+1827,Number of measurement records by unit_concept_id,0.08
+823,"Number of observation records, by observation_concept_id and qualifier_concept_id",2.22
+510,Number of death records outside valid observation period,0.04
+812,Number of observation records with invalid provider_id,0.02
+1006,Distribution of age by condition_concept_id,1.00
+702,"Number of persons by drug exposure start month, by drug_concept_id",0.09
+2002,"Number of patients with at least 1 Meas, 1 Dx and 1 Rx",0.98
+1003,Number of distinct condition era concepts per person,1.12
+1303,Number of distinct visit detail concepts per person,0.99
+513,Distribution of time from death to last visit,0.07
+604,"Number of persons with at least one procedure occurrence, by procedure_concept_id by calendar year by gender by age decile",2.33
+609,Number of procedure occurrence records with invalid person_id,0.75
+220,Number of visit occurrence records by visit occurrence start month,0.88
+2102,"Number of persons by device records  start month, by device_concept_id",1.82
+400,"Number of persons with at least one condition occurrence, by condition_concept_id",0.02
+409,Number of condition occurrence records with invalid person_id,0.04
+1100,Number of persons by location 3-digit zip,0.01
+115,Number of persons with observation period end < observation period start,0.02
+703,Number of distinct drug exposure concepts per person,0.10
+1007,"Distribution of condition era length, by condition_concept_id",0.11
+610,Number of procedure occurrence records outside valid observation period,0.05
+1306,Distribution of age by visit_detail_concept_id,0.99
+209,Number of visit records with invalid care_site_id,1.45
+1002,"Number of persons by condition era start month, by condition_concept_id",0.06
+401,"Number of condition occurrence records, by condition_concept_id",0.02
+1020,Number of condition era records by condition era start month,0.07
+704,"Number of persons with at least one drug exposure, by drug_concept_id by calendar year by gender by age decile",0.79
+500,"Number of persons with death, by cause_concept_id",0.09
+822,"Number of observation records, by observation_concept_id and value_as_concept_id",0.02
+625,Number of procedure_occurrence records by procedure_source_concept_id,0.03
+402,"Number of persons by condition occurrence start month, by condition_concept_id",0.04
+1001,"Number of condition era records, by condition_concept_id",2.61
+1810,Number of measurement records outside valid observation period,0.05
+891,Percentage of total persons that have at least x observations,0.01
+106,Length of observation (days) of first observation period by gender,0.89
+1103,Number of care sites by location state,0.05
+1310,Number of visit_detail records outside a valid observation period,0.02
+202,"Number of persons by visit occurrence start month, by visit_concept_id",0.06
+1321,Number of persons by visit start year,0.07
+101,"Number of persons by age, with age at first observation period",0.04
+110,Number of persons with continuous observation in each month,0.03
+108,"Number of persons by length of observation period, in 30d increments",0.04
+931,Proportion of people with at least one drug_era record outside a valid observation period,1.06
+1803,Number of distinct mesurement occurrence concepts per person,0.10
+1821,Number of measurement records with no numeric value,0.07
+830,Number of observation records inside a valid observation period,0.02
+225,Number of visit_occurrence records by visit_source_concept_id,1.44
+511,Distribution of time from death to last condition,0.04
+805,"Number of observation occurrence records, by observation_concept_id by observation_type_concept_id",0.08
+1826,Number of measurement records by value_as_concept_id,0.06
+603,Number of distinct procedure occurrence concepts per person,0.12
+1414,Number of persons with payer plan period before year-of-birth,0.04
+1832,Proportion of measurement records outside a valid observation period,1.97
+2000,Number of patients with at least 1 Dx and 1 Rx,0.04
+1425,Number of payer_plan_period records by payer_source_concept_id,0.03
+1008,Number of condition eras without valid person,0.03
+505,"Number of death records, by death_type_concept_id",0.03
+1812,Number of measurement records with invalid provider_id,1.69
+1408,"Number of persons by length of payer plan period, in 30d increments",0.02
+515,Distribution of time from death to last observation,0.09
+5,Number of persons by ethnicity,0.11
+1004,"Number of persons with at least one condition era, by condition_concept_id by calendar year by gender by age decile",0.05
+112,Number of persons by observation period end month,0.02
+825,Number of observation records by observation_source_concept_id,0.07
+1700,Number of records by cohort_concept_id,0.01
+406,Distribution of age by condition_concept_id,0.95
+901,"Number of drug era records, by drug_concept_id",0.02
+720,Number of drug exposure records  by drug exposure start month,0.03
+413,Number of condition occurrence records with invalid visit_id,0.03
+632,Proportion of procedure_occurrence records outside a valid observation period,0.05
+410,Number of condition occurrence records outside valid observation period,0.04
+717,Distribution of quantity by drug_concept_id,0.08
+1815,"Distribution of numeric values, by measurement_concept_id and unit_concept_id",3.21
+713,Number of drug exposure records with invalid visit_id,0.05
+404,"Number of persons with at least one condition occurrence, by condition_concept_id by calendar year by gender by age decile",0.78
+210,Number of visit_occurrence records outside a valid observation period,0.02
+1809,Number of measurement records with invalid person_id,0.05
+932,Proportion of drug_era records outside a valid observation period,0.05
+804,"Number of persons with at least one observation occurrence, by observation_concept_id by calendar year by gender by age decile",0.06
+2106,Distribution of age by device_concept_id,0.11
+1102,Number of care sites by location 3-digit zip,0.02
+1830,Number of visit_detail records inside a valid observation period,0.04
+1200,Number of persons by place of service,0.04
+1304,"Number of persons with at least one visit detail, by visit_detail_concept_id by calendar year by gender by age decile",0.08
+731,Proportion of people with at least one drug_exposure record outside a valid observation period,2.37
+908,Number of drug eras without valid person,1.03
+512,Distribution of time from death to last drug,0.10
+1413,Number of persons by number of payer plan periods,0.94
+301,Number of providers by specialty concept_id,0.01
+807,"Number of observation occurrence records, by observation_concept_id and unit_concept_id",0.02
+232,Proportion of visit_occurrence records outside a valid observation period,0.04
+226,Number of records by domain by visit_concept_id,0.14
+514,Distribution of time from death to last procedure,2.29
+102,"Number of persons by gender by age, with age at first observation period",0.03
+1320,Number of visit detail records by visit detail start month,0.05
+231,Proportion of people with at least one visit_occurrence record outside a valid observation period,1.55
+531,Proportion of people with at least one death record outside a valid observation period,0.02
+2125,Number of device_exposure records by device_source_concept_id,0.02
+809,Number of observation records with invalid person_id,0.04
+2110,Number of device_exposure records outside valid observation period,0.05
+1818,"Number of measurement records below/within/above normal range, by measurement_concept_id and unit_concept_id",0.05
+1313,Distribution of length of stay by visit_detail_concept_id,0.10
+2105,"Number of device exposure records, by device_concept_id by device_type_concept_id",0.89
+103,Distribution of age at first observation period,0.03
+116,Number of persons with at least one day of observation in each year by gender and age decile,0.82
+412,Number of condition occurrence records with invalid provider_id,0.03
+1203,Number of visits by place of service discharge type,0.02
+705,"Number of drug exposure records, by drug_concept_id by drug_type_concept_id",0.08
+1030,Number of condition_era records inside a valid observation period,0.99
+903,Number of distinct drug era concepts per person,2.53
+706,Distribution of age by drug_concept_id,1.72
+711,Number of drug exposure records with end date < start date,2.63
+1804,"Number of persons with at least one mesurement  occurrence, by measurement_concept_id by calendar year by gender by age decile",1.00
+907,"Distribution of drug era length, by drug_concept_id",1.11
+716,Distribution of refills by drug_concept_id,0.07
+900,"Number of persons with at least one drug era, by drug_concept_id",0.02
+109,Number of persons with continuous observation in each year,0.10
+1410,Number of persons with continuous payer plan in each month,0.10
+213,Distribution of length of stay by visit_concept_id,0.89
+2001,Number of patients with at least 1 Dx and 1 Proc,0.17
+1,Number of persons,0.08
+801,"Number of observation occurrence records, by observation_concept_id",0.02
+601,"Number of procedure occurrence records, by procedure_concept_id",2.32
+630,Number of procedure_occurrence records inside a valid observation period,0.04
+504,"Number of persons with a death, by calendar year by gender by age decile",0.03
+725,Number of drug_exposure records by drug_source_concept_id,0.82
+691,Percentage of total persons that have at least x procedures,0.81
+1814,"Number of measurement records with no value (numeric, string, or concept)",0.04
+1823,"Number of measurement records, by measurement_concept_id and operator_concept_id",0.06
+730,Number of drug_exposure records inside a valid observation period,0.02
+826,Number of observation records by value_as_concept_id,0.03
+612,Number of procedure occurrence records with invalid provider_id,0.03
+1331,Proportion of people with at least one visit_detail record outside a valid observation period,0.03
+105,Length of observation (days) of first observation period,0.88
+104,Distribution of age at first observation period by gender,0.74
+8,Number of persons with invalid location_id,0.06
+910,Number of drug_era records outside valid observation period,0.04
+114,Number of persons with observation period before year-of-birth,0.05
+230,Number of visit_occurrence records inside valid observation period,0.03
+605,"Number of procedure occurrence records, by procedure_concept_id by procedure_type_concept_id",0.04
+3,Number of persons by year of birth,0.06
+325,Number of provider records by specialty_source_concept_id,1.58
+930,Number of drug_era records inside a valid observation period,0.05
+430,Number of condition_occurrence records inside a valid observation period,0.05
+906,Distribution of age by drug_concept_id,0.09
+1800,"Number of persons with at least one measurement occurrence, by measurement_concept_id",1.06
+405,"Number of condition occurrence records, by condition_concept_id by condition_type_concept_id",0.02
+832,Proportion of observation records outside a valid observation period,0.02
+2101,"Number of device exposure records, by device_concept_id",0.05
+1805,"Number of measurement occurrence records, by measurement_concept_id by measurement_type_concept_id",0.06
+506,Distribution of age at death by gender,1.66
+1831,Proportion of people with at least one measurement record outside a valid observation period,0.04
+613,Number of procedure occurrence records with invalid visit_id,0.04
+1807,"Number of measurement occurrence records, by measurement_concept_id and unit_concept_id",0.06
+1311,Number of visit_detail records with end date < start date,0.05
+2100,"Number of persons with at least one device exposure, by device_concept_id",0.08
+911,Number of drug eras with end date < start date,0.04
+820,Number of observation records  by observation start month,0.02
+1309,Number of visit_detail records with invalid care_site_id,0.03
+0,Source name,0.97
+1332,Proportion of visit_detail records outside a valid observation period,0.06
+715,Distribution of days_supply by drug_concept_id,0.94
+201,"Number of visit occurrence records, by visit_concept_id",0.06
+1302,"Number of persons by visit detail start month, by visit_detail_concept_id",0.06
+532,Proportion of death records that occur outside a valid observation period,0.02
+206,Distribution of age by visit_concept_id,0.84
+902,"Number of persons by drug era start month, by drug_concept_id",0.02
+813,Number of observation records with invalid visit_id,0.85
+1312,"Number of persons with at least one visit detail, by calendar year by gender by age decile",0.91
+1307,Number of visit records with invalid person_id,0.04
+1822,"Number of measurement records, by measurement_concept_id and value_as_concept_id",0.06
+1806,Distribution of age by measurement_concept_id,1.07
+2191,Percentage of total persons that have at least x device exposures,0.03
+631,Proportion of people with at least one procedure_occurrence record outside a valid observation period,0.04
+1412,Number of persons by payer plan period end month,0.02
+7,Number of persons with invalid provider_id,0.79
+1411,Number of persons by payer plan period start month,0.02
+2003,Number of patients with at least 1 Visit,0.03
+710,Number of drug exposure records outside valid observation period,0.10
+207,Number of visit records with invalid person_id,0.03
+111,Number of persons by observation period start month,1.51
+118,Number of observation periods with invalid person_id,0.03
+1000,"Number of persons with at least one condition era, by condition_concept_id",0.07
+814,"Number of observation records with no value (numeric, string, or concept)",0.03
+732,Proportion of drug_exposure records outside a valid observation period,0.03
+411,Number of condition occurrence records with end date < start date,0.01
+113,Number of persons by number of observation periods,0.04
+1300,"Number of persons with at least one visit detail, by visit_detail_concept_id",0.94
+509,Number of death records with invalid person_id,0.03
+1825,Number of measurement records by measurement_source_concept_id,0.94
+1816,"Distribution of low range, by measurement_concept_id and unit_concept_id",0.29
+831,Proportion of people with at least one observation record outside a valid observation period,0.02
+300,Number of providers,0.02
+1301,"Number of visit detail records, by visit_detail_concept_id",0.05
+4,Number of persons by race,0.99
+1032,Proportion of condition_era records outside a valid observation period,0.03
+221,Number of persons by visit start year,0.04
+1010,Number of condition_era records outside a valid observation period,0.96
+204,"Number of persons with at least one visit occurrence, by visit_concept_id by calendar year by gender by age decile",0.05
+1801,"Number of measurement occurrence records, by measurement_concept_id",0.06
+203,Number of distinct visit occurrence concepts per person,1.83
+1415,Number of persons with payer plan period end < payer plan period start,0.02
+709,Number of drug exposure records with invalid person_id,0.09
+791,Percentage of total persons that have at least x drug exposures,0.08
+415,"Number of condition occurrence records, by condition_type_concept_id",0.03
+2,Number of persons by gender,0.05
+414,"Number of condition occurrence records, by condition_status_concept_id",0.88
+11,Number of non-deceased persons by year of birth by gender,0.02
+431,Proportion of people with at least one condition_occurrence record outside a valid observation period,0.04
+432,Proportion of condition_occurrence records outside a valid observation period,1.46
+712,Number of drug exposure records with invalid provider_id,0.05
+1891,Percentage of total persons that have at least x measurements,0.13
+815,"Distribution of numeric values, by observation_concept_id and unit_concept_id",1.63
+1330,Number of visit_detail records inside a valid observation period,0.04
+1900,"Source values mapped to concept_id 0 by table, by column, by source_value",1.73
+12,Number of persons by race and ethnicity,0.03
+212,"Number of persons with at least one visit occurrence, by calendar year by gender by age decile",0.08
+502,Number of persons by death month,0.03
+803,Number of distinct observation occurrence concepts per person,1.74
+1817,"Distribution of high range, by measurement_concept_id and unit_concept_id",1.85
+1406,Length of payer plan (days) of first payer plan period by gender,0.89
+302,Number of providers with invalid care site id,0.04
+2201,"Number of note records, by note_type_concept_id",0.03
+211,Number of visit records with end date < start date,0.02
+1031,Proportion of people with at least one condition_era record outside a valid observation period,0.02
+606,Distribution of age by procedure_concept_id,0.97
+425,Number of condition_occurrence records by condition_source_concept_id,0.05
+1101,Number of persons by location state,0.02
+403,Number of distinct condition occurrence concepts per person,1.74
+1011,Number of condition eras with end date < start date,0.04
+802,"Number of persons by observation occurrence start month, by observation_concept_id",0.02
+2104,"Number of persons with at least one device exposure, by device_concept_id by calendar year by gender by age decile",0.05
+1201,Number of visits by place of service,1.58
+1701,Number of records with cohort end date < cohort start date,0.03
+119,Number of observation period records by period_type_concept_id,0.03
+701,"Number of drug exposure records, by drug_concept_id",0.05
+2004,Number of distinct patients that overlap between specific domains,1.14
+9,Number of persons with invalid care_site_id,0.04
+107,Length of observation (days) of first observation period by age decile,0.08
+1202,Number of care sites by place of service,0.02
+1802,"Number of persons by measurement occurrence start month, by measurement_concept_id",0.99
+602,"Number of persons by procedure occurrence start month, by procedure_concept_id",0.06
+1325,Number of visit_detail records by visit_detail_source_concept_id,0.86
+2132,Proportion of device_exposure records outside a valid observation period,1.79
+806,Distribution of age by observation_concept_id,1.05
+1833,Proportion of measurement records inside a valid observation period and without a value,0.09
+827,Number of observation records by unit_concept_id,0.03
+1326,Number of records by domain by visit_detail_concept_id,0.94
+525,Number of death records by cause_source_concept_id,0.02
+2130,Number of device_exposure records inside a valid observation period,0.04

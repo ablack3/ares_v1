@@ -1,0 +1,30 @@
+CONCEPT_ID,CONCEPT_NAME,NUM_PERSONS,PERCENT_PERSONS,RECORDS_PER_PERSON,PERCENT_PERSONS_NTILE,RECORDS_PER_PERSON_NTILE
+4326177,Medication Reconciliation,113,1.0000, 5.1,1,3
+4249893,Colonoscopy,32,0.2832, 1.9,1,6
+4163872,Plain chest X-ray,20,0.1770, 1.6,1,6
+4060626,Ultrasound scan for fetal viability,15,0.1327, 3.1,2,3
+4196006,Placing subject in prone position,15,0.1327,10.2,2,2
+4240345,Physical examination,15,0.1327, 5.2,2,3
+4064377,Depression screening,15,0.1327, 3.1,3,4
+4162736,Oxygen administration by mask,15,0.1327,10.3,3,2
+4125906,Suture open wound,14,0.1239, 1.1,3,7
+4234541,"Cytopathology procedure, preparation of smear, genital source",14,0.1239, 2.4,4,4
+4170947,Bone immobilization,13,0.1150, 1.0,4,8
+4150653,Fetal anatomy study,13,0.1150, 2.2,4,5
+4168236,Evaluation of uterine fundal height,13,0.1150,19.9,5,1
+4163708,"Vaccination for diphtheria, pertussis, and tetanus",13,0.1150, 2.3,5,5
+4075363,Auscultation of the fetal heart,13,0.1150,19.9,5,1
+40481948,Detection of chromosomal aneuploidy in prenatal amniotic fluid specimen using FISH screening technique,13,0.1150, 2.4,6,5
+4059978,Insertion of subcutaneous contraceptive,12,0.1062, 1.8,6,6
+4275113,Insertion of intrauterine contraceptive device,12,0.1062, 1.2,6,7
+4230911,Echocardiography,11,0.0974, 2.5,7,4
+4187458,Review of systems,9,0.0796, 1.0,7,9
+4037675,Brief general examination,9,0.0796, 1.0,7,9
+4238715,Removal of intrauterine device,7,0.0620, 1.1,8,8
+4195803,Bone density scan,7,0.0620, 1.0,8,9
+4295880,Intramuscular injection,7,0.0620,26.1,8,1
+4078199,Epidural anesthesia,7,0.0620, 1.0,9,10
+4015701,Cesarean section,7,0.0620, 1.1,9,8
+4166761,Rectal polypectomy,6,0.0531, 1.3,9,7
+4018619,Screening for occult blood in feces,6,0.0531, 1.0,10,10
+4043071,Cognitive and behavioral therapy,6,0.0531,11.7,10,2

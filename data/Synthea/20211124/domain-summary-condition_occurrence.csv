@@ -1,0 +1,45 @@
+CONCEPT_ID,CONCEPT_NAME,NUM_PERSONS,PERCENT_PERSONS,RECORDS_PER_PERSON,PERCENT_PERSONS_NTILE,RECORDS_PER_PERSON_NTILE
+37311061,Disease caused by 2019-nCoV,89,0.7876,1.0,1,2
+437663,Fever,78,0.6903,1.0,1,2
+254761,Cough,61,0.5398,1.0,1,3
+4112343,Acute viral pharyngitis,61,0.5398,1.4,1,1
+40481087,Viral sinusitis,58,0.5133,1.8,1,1
+4289517,Loss of taste,50,0.4425,1.0,2,3
+260139,Acute bronchitis,47,0.4159,1.2,2,2
+4089228,Sputum finding,37,0.3274,1.0,2,3
+320128,Essential hypertension,32,0.2832,1.0,2,3
+4223659,Fatigue,29,0.2566,1.0,2,3
+439777,Anemia,29,0.2566,1.0,3,4
+4078393,Miscarriage in first trimester,21,0.1858,1.0,3,4
+257012,Chronic sinusitis,20,0.1770,1.0,3,4
+4132891,Chronic low back pain,19,0.1681,1.0,3,4
+372328,Otitis media,17,0.1504,1.2,3,2
+4217975,Normal pregnancy,15,0.1327,3.1,4,1
+43530622,Chronic neck pain,15,0.1327,1.0,4,4
+442752,Muscle pain,14,0.1239,1.0,4,5
+77074,Joint pain,14,0.1239,1.0,4,5
+255848,Pneumonia,13,0.1150,1.0,4,5
+4147326,Sore throat symptom,12,0.1062,1.0,5,5
+437390,Hypoxemia,12,0.1062,1.0,5,6
+434490,Chill,12,0.1062,1.0,5,6
+314754,Wheezing,12,0.1062,1.0,5,6
+4158346,Respiratory distress,12,0.1062,1.0,6,6
+312437,Dyspnea,12,0.1062,1.0,6,7
+28060,Streptococcal sore throat,12,0.1062,1.2,6,2
+432867,Hyperlipidemia,11,0.0974,1.0,6,7
+436940,Metabolic syndrome X,10,0.0885,1.0,7,7
+201826,Type 2 diabetes mellitus,10,0.0885,1.0,7,7
+4120314,Hypertriglyceridemia,10,0.0885,1.0,7,8
+4294548,Acute bacterial sinusitis,9,0.0796,1.0,7,8
+319049,Acute respiratory failure,9,0.0796,1.0,8,8
+4283893,Sinusitis,8,0.0708,1.0,8,8
+378253,Headache,8,0.0708,1.0,8,9
+4208104,Drug overdose,8,0.0708,1.0,8,9
+4285898,Polyp of colon,7,0.0620,1.3,9,1
+81151,Sprain of ankle,7,0.0620,1.3,9,1
+4214376,Hyperglycemia,6,0.0531,1.0,9,9
+440448,Appendicitis,6,0.0531,1.0,9,9
+4218389,Whiplash injury to neck,6,0.0531,1.0,10,10
+4079750,Osteoarthritis of knee,6,0.0531,1.0,10,10
+436096,Chronic pain,6,0.0531,1.0,10,10
+4145808,Diarrhea symptom,6,0.0531,1.0,10,10

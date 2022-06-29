@@ -1,0 +1,12 @@
+domain,count_records
+Condition era,21132
+Condition occurrence,23445
+Death,247
+Device,326
+Drug era,13971
+Drug exposure,83329
+Measurement,608006
+Observation,32031
+Person,1878
+Procedure occurrence,48551
+Visit occurrence,88242

@@ -1,0 +1,7 @@
+CATEGORY,MIN_VALUE,P10_VALUE,P25_VALUE,MEDIAN_VALUE,P75_VALUE,P90_VALUE,MAX_VALUE
+Condition era,1,6,7,9,12,16,21
+Observation,1,2,2,3,5,7,9
+Procedure occurrence,1,1,2,3,6,13,25
+Drug exposure,1,2,2,5,7,9,15
+Condition occurrence,1,6,7,9,12,16,21
+Measurement,20,25,33,38,51,70,99

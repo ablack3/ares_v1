@@ -1,0 +1,23 @@
+CONCEPT_ID,CONCEPT_NAME,NUM_PERSONS,PERCENT_PERSONS,RECORDS_PER_PERSON,PERCENT_PERSONS_NTILE,RECORDS_PER_PERSON_NTILE
+37311060,Suspected disease caused by 2019-nCoV,88,0.7213,1.0,1,1
+4060985,Body mass index 30+ - obesity,54,0.4426,1.0,1,1
+4304110,Allergy to mold,11,0.0902,1.0,1,1
+439406,Allergy to animal dander,10,0.0820,1.0,2,2
+4302207,Allergy to grass pollen,7,0.0574,1.0,2,2
+4048169,Allergy to dust mite protein,7,0.0574,1.0,2,2
+4240902,Allergy to peanut,7,0.0574,1.0,3,3
+4306014,Allergy to tree pollen,6,0.0492,1.0,3,3
+433644,Allergy to shellfish,5,0.0410,1.0,4,4
+4174876,Allergy to bee venom,5,0.0410,1.0,4,4
+45766064,History of single seizure,4,0.0328,1.0,5,5
+4163874,History of myocardial infarction,3,0.0246,1.0,5,5
+4323208,History of appendectomy,3,0.0246,1.0,6,6
+4219399,Allergy to fish,3,0.0246,1.0,6,6
+4102123,Allergy to latex,3,0.0246,1.0,7,7
+4038238,Suspected lung cancer,3,0.0246,1.0,7,7
+4169137,Allergy to wheat,2,0.0164,1.0,8,8
+4139681,Allergy to dairy foods,2,0.0164,1.0,8,8
+4324181,History of cardiac arrest,2,0.0164,1.0,9,9
+42709996,Smokes tobacco daily,2,0.0164,1.0,9,9
+442116,Allergy to edible egg,1,0.0082,1.0,10,10
+438614,Allergy to nut,1,0.0082,1.0,10,10

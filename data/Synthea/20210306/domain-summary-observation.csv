@@ -1,0 +1,46 @@
+CONCEPT_ID,CONCEPT_NAME,NUM_PERSONS,PERCENT_PERSONS,RECORDS_PER_PERSON,PERCENT_PERSONS_NTILE,RECORDS_PER_PERSON_NTILE
+43054909,Tobacco smoking status,1752,0.9972,12.6,1,1
+37311060,Suspected disease caused by 2019-nCoV,1388,0.7900, 1.1,1,4
+4060985,Body mass index 30+ - obesity,653,0.3717, 1.1,1,4
+46235652,Pain severity in the past week - 0-10 numeric rating [Reported],354,0.2015, 2.5,1,3
+1175723,What number best describes how pain has interfered with your enjoyment of life during the past week,354,0.2015, 2.5,1,3
+1175797,What number best describes how pain has interfered with your general activity during the past week,354,0.2015, 2.5,2,3
+40771960,Cause of death [US Standard Certificate of Death],265,0.1508, 1.1,2,4
+3034263,Pain severity - Reported,204,0.1161,10.5,2,1
+4304110,Allergy to mold,115,0.0654, 1.1,2,4
+439406,Allergy to animal dander,114,0.0649, 1.1,2,4
+4048169,Allergy to dust mite protein,94,0.0535, 1.1,3,5
+4302207,Allergy to grass pollen,93,0.0529, 1.1,3,5
+4306014,Allergy to tree pollen,89,0.0506, 1.1,3,5
+4323208,History of appendectomy,85,0.0484, 1.0,3,8
+45766064,History of single seizure,74,0.0421, 1.1,3,5
+4240902,Allergy to peanut,59,0.0336, 1.1,4,5
+433644,Allergy to shellfish,59,0.0336, 1.1,4,6
+4174876,Allergy to bee venom,54,0.0307, 1.1,4,6
+42869860,Total score [MMSE],54,0.0307, 3.1,4,3
+36305765,Functional capacity NYHA,51,0.0290, 1.1,4,6
+46234710,Symptom,51,0.0290, 6.5,5,1
+4324181,History of cardiac arrest,51,0.0290, 1.0,5,8
+36304558,Objective assessment of cardiovascular disease NYHA,51,0.0290, 1.1,5,6
+4219399,Allergy to fish,44,0.0250, 1.1,5,7
+438614,Allergy to nut,38,0.0216, 1.0,5,8
+4102123,Allergy to latex,31,0.0176, 1.1,6,7
+40766240,Are you covered by health insurance or some other kind of health care plan [PhenX],28,0.0159, 3.3,6,1
+3037141,Abuse Status [OMAHA],28,0.0159, 3.3,6,2
+3051031,History of Hospitalizations+Outpatient visits Narrative,28,0.0159, 3.3,6,2
+40758406,HIV status,28,0.0159, 3.3,7,2
+42869557,Housing status,28,0.0159, 3.3,7,2
+46235214,Sexual orientation,28,0.0159, 3.3,7,2
+4163874,History of myocardial infarction,27,0.0154, 1.2,7,3
+442116,Allergy to edible egg,25,0.0142, 1.0,8,9
+4169137,Allergy to wheat,23,0.0131, 1.1,8,7
+4139681,Allergy to dairy foods,21,0.0120, 1.1,8,7
+42709996,Smokes tobacco daily,21,0.0120, 1.0,8,9
+4038238,Suspected lung cancer,18,0.0102, 1.1,9,8
+36305408,Response to cancer treatment,17,0.0097, 4.8,9,1
+36684378,Allergy to soy protein,9,0.0051, 1.0,9,9
+4256640,Body mass index 40+ - severely obese,9,0.0051, 1.0,9,9
+4121085,Unable to swallow saliva,2,0.0011, 1.0,10,10
+42869725,PROMIS-10 Global Mental Health (GMH) score,1,0.0006, 1.0,10,10
+4168004,Burn injury,1,0.0006, 1.0,10,10
+42869727,PROMIS-10 Global Physical Health (GPH) score,1,0.0006, 1.0,10,10

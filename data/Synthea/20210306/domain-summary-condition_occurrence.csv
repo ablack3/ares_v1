@@ -1,0 +1,179 @@
+CONCEPT_ID,CONCEPT_NAME,NUM_PERSONS,PERCENT_PERSONS,RECORDS_PER_PERSON,PERCENT_PERSONS_NTILE,RECORDS_PER_PERSON_NTILE
+37311061,Disease caused by 2019-nCoV,1349,0.7678,1.1,1,3
+437663,Fever,1229,0.6995,1.2,1,1
+40481087,Viral sinusitis,1144,0.6511,1.8,1,1
+254761,Cough,945,0.5379,1.1,1,3
+4112343,Acute viral pharyngitis,813,0.4627,1.5,1,1
+260139,Acute bronchitis,708,0.4030,1.4,1,1
+4289517,Loss of taste,686,0.3904,1.1,1,3
+4223659,Fatigue,542,0.3085,1.1,1,3
+4311629,Impaired glucose tolerance,508,0.2891,1.1,1,3
+439777,Anemia,498,0.2834,1.1,1,3
+4089228,Sputum finding,484,0.2755,1.1,1,3
+320128,Essential hypertension,428,0.2436,1.0,1,7
+257012,Chronic sinusitis,363,0.2066,1.1,1,3
+4217975,Normal pregnancy,328,0.1867,2.7,1,1
+255848,Pneumonia,327,0.1861,1.1,1,3
+314754,Wheezing,315,0.1793,1.1,1,3
+312437,Dyspnea,315,0.1793,1.1,1,3
+4078393,Miscarriage in first trimester,311,0.1770,1.0,1,7
+437390,Hypoxemia,307,0.1747,1.1,2,3
+4158346,Respiratory distress,307,0.1747,1.1,2,3
+4132891,Chronic low back pain,296,0.1685,1.1,2,3
+28060,Streptococcal sore throat,233,0.1326,1.2,2,1
+378253,Headache,214,0.1218,1.1,2,3
+442752,Muscle pain,207,0.1178,1.1,2,3
+372328,Otitis media,207,0.1178,1.5,2,1
+77074,Joint pain,207,0.1178,1.1,2,4
+43530622,Chronic neck pain,206,0.1172,1.1,2,4
+432867,Hyperlipidemia,199,0.1133,1.1,2,4
+4147326,Sore throat symptom,194,0.1104,1.1,2,4
+434490,Chill,181,0.1030,1.1,2,4
+81151,Sprain of ankle,177,0.1007,1.2,2,1
+4285898,Polyp of colon,135,0.0768,1.3,2,1
+319049,Acute respiratory failure,133,0.0757,1.1,2,4
+378001,Concussion with no loss of consciousness,116,0.0660,1.1,2,4
+36674642,Sepsis caused by virus,115,0.0654,1.1,2,4
+4120314,Hypertriglyceridemia,104,0.0592,1.0,2,7
+436940,Metabolic syndrome X,103,0.0586,1.0,3,7
+45768439,Acute pulmonary embolism,101,0.0575,1.1,3,4
+201826,Type 2 diabetes mellitus,100,0.0569,1.0,3,7
+4294548,Acute bacterial sinusitis,99,0.0563,1.1,3,4
+4283893,Sinusitis,95,0.0541,1.1,3,4
+317576,Coronary arteriosclerosis,92,0.0524,1.1,3,4
+80502,Osteoporosis,90,0.0512,1.1,3,4
+44782746,Acute deep venous thrombosis,90,0.0512,1.1,3,4
+4208104,Drug overdose,88,0.0501,1.0,3,7
+43530652,Chronic intractable migraine without aura,87,0.0495,1.0,3,7
+436096,Chronic pain,86,0.0490,1.0,3,7
+381316,Cerebrovascular accident,86,0.0490,1.0,3,7
+440448,Appendicitis,85,0.0484,1.0,3,7
+4055754,Impacted molars,85,0.0484,1.0,3,7
+4079750,Osteoarthritis of knee,84,0.0478,1.0,3,7
+78272,Sprain of wrist,79,0.0450,1.1,3,4
+4218389,Whiplash injury to neck,78,0.0444,1.2,3,2
+4029498,Seizure disorder,74,0.0421,1.1,3,4
+31967,Nausea,69,0.0393,1.1,4,4
+4096715,Vomiting symptom,69,0.0393,1.1,4,4
+4278672,Fracture of forearm,65,0.0370,1.2,4,2
+313217,Atrial fibrillation,64,0.0364,1.1,4,5
+4195085,Nasal congestion,62,0.0353,1.1,4,5
+4156265,Facial laceration,60,0.0342,1.0,4,7
+4113008,Laceration of hand,59,0.0336,1.1,4,5
+4152936,Laceration of thigh,57,0.0324,1.1,4,5
+4155034,Laceration of forearm,57,0.0324,1.1,4,5
+4109685,Laceration of foot,54,0.0307,1.1,4,5
+4237458,Fracture of clavicle,54,0.0307,1.1,4,5
+4229440,Chronic congestive heart failure,52,0.0296,1.1,4,5
+132797,Sepsis,52,0.0296,1.1,4,5
+321042,Cardiac arrest,51,0.0290,1.0,4,8
+40318618,Complete miscarriage,51,0.0290,1.2,4,2
+192279,Disorder of kidney due to diabetes mellitus,50,0.0285,1.0,4,8
+378419,Alzheimer's disease,49,0.0279,1.1,4,5
+4214376,Hyperglycemia,48,0.0273,1.0,4,8
+4048171,Perennial allergic rhinitis with seasonal variation,48,0.0273,1.1,5,5
+4051466,Childhood asthma,48,0.0273,1.0,5,8
+4145808,Diarrhea symptom,47,0.0267,1.1,5,5
+380378,Epilepsy,46,0.0262,1.1,5,5
+4134304,Fracture subluxation of wrist,46,0.0262,1.1,5,5
+4059173,Fracture of ankle,46,0.0262,1.2,5,2
+443614,Chronic kidney disease stage 1,46,0.0262,1.0,5,8
+4296204,Epidermal burn of skin,44,0.0250,1.1,5,5
+4116491,Escherichia coli urinary tract infection,42,0.0239,1.4,5,1
+4195694,Acute respiratory distress syndrome,41,0.0233,1.2,5,2
+40486433,Perennial allergic rhinitis,41,0.0233,1.1,5,5
+196236,Septic shock,40,0.0228,1.2,5,2
+75036,"Localized, primary osteoarthritis of the hand",37,0.0211,1.1,5,5
+439393,Pre-eclampsia,37,0.0211,1.1,5,5
+40405599,Fibromyalgia,36,0.0205,1.2,5,2
+4112853,Malignant tumor of breast,35,0.0199,1.1,5,6
+4166224,Rupture of appendix,34,0.0193,1.0,5,8
+195588,Cystitis,34,0.0193,1.1,5,6
+4262136,Blighted ovum,33,0.0188,1.1,6,6
+199076,Tubal pregnancy,33,0.0188,1.1,6,6
+4129902,Neoplasm of prostate,32,0.0182,1.0,6,8
+261325,Pulmonary emphysema,32,0.0182,1.0,6,8
+137613,Eclampsia in pregnancy,32,0.0182,1.2,6,2
+37016354,Neuropathy due to type 2 diabetes mellitus,31,0.0176,1.0,6,8
+37017023,Recurrent rectal polyp,31,0.0176,1.1,6,6
+200970,Carcinoma in situ of prostate,30,0.0171,1.0,6,8
+440086,Child attention deficit disorder,29,0.0165,1.0,6,8
+4079749,Osteoarthritis of hip,28,0.0159,1.0,6,8
+258780,Emphysematous bronchitis,28,0.0159,1.1,6,6
+316139,Heart failure,28,0.0159,1.2,6,2
+4226121,Retinopathy due to type 2 diabetes mellitus,28,0.0159,1.0,6,8
+4296205,Partial thickness burn,27,0.0154,1.1,6,6
+375671,Concussion with loss of consciousness,27,0.0154,1.2,6,2
+4329847,Myocardial infarction,27,0.0154,1.2,6,2
+4084167,Acute allergic reaction,26,0.0148,1.3,6,1
+133834,Atopic dermatitis,25,0.0142,1.1,6,6
+4280726,Seasonal allergic rhinitis,24,0.0137,1.1,7,6
+4120613,Acquired coagulation disorder,24,0.0137,1.2,7,2
+40480160,Pathological fracture due to osteoporosis,24,0.0137,1.3,7,1
+4230399,Closed fracture of hip,23,0.0131,1.2,7,2
+4146173,Injury of tendon of the rotator cuff of shoulder,22,0.0125,1.0,7,8
+4220631,Injury of kidney,20,0.0114,1.1,7,6
+4311280,Injury of heart,18,0.0102,1.1,7,6
+4094814,Bullet wound,18,0.0102,1.1,7,6
+438130,Opioid abuse,18,0.0102,1.1,7,6
+4056621,Recurrent urinary tract infection,16,0.0091,1.1,7,6
+4310703,"Non-small cell carcinoma of lung, TNM stage 1",16,0.0091,1.1,7,6
+4115276,Non-small cell lung cancer,16,0.0091,1.1,7,6
+4142905,Fracture of rib,16,0.0091,1.1,7,6
+4080695,Passive conjunctival congestion,15,0.0085,1.0,7,8
+43530656,Nonproliferative retinopathy due to type 2 diabetes mellitus,15,0.0085,1.0,7,8
+4309027,Idiopathic atrophic hypothyroidism,12,0.0068,1.1,7,6
+40479422,Injury of medial collateral ligament of knee,12,0.0068,1.1,7,7
+440674,Gout,11,0.0063,1.2,7,2
+4141827,Transformed migraine,11,0.0063,1.0,8,8
+134438,Contact dermatitis,11,0.0063,1.3,8,1
+79740,Overlapping malignant neoplasm of colon,10,0.0057,1.2,8,2
+261687,Hemoptysis,10,0.0057,1.0,8,8
+4152280,Major depressive disorder,10,0.0057,1.0,8,9
+4218106,Alcoholism,10,0.0057,1.4,8,1
+40479768,Injury of anterior cruciate ligament,10,0.0057,1.2,8,2
+45769905,Microalbuminuria due to type 2 diabetes mellitus,8,0.0046,1.1,8,7
+4180790,Malignant tumor of colon,8,0.0046,1.0,8,9
+443601,Chronic kidney disease stage 2,8,0.0046,1.1,8,7
+4149245,Rupture of patellar tendon,8,0.0046,1.2,8,2
+4245614,Bleeding from anus,7,0.0040,1.1,8,7
+4341247,Protracted diarrhea,7,0.0040,1.1,8,7
+432545,Bacterial infectious disease,7,0.0040,1.3,8,1
+4134120,Cerebral palsy,7,0.0040,1.0,8,9
+318800,Gastroesophageal reflux disease,7,0.0040,1.0,8,9
+4048695,Fracture of vertebral column without spinal cord injury,6,0.0034,1.0,8,9
+4329728,Spasticity,6,0.0034,1.0,8,9
+4316217,Primary fibromyalgia syndrome,6,0.0034,1.0,9,9
+45770830,Macular edema and retinopathy due to type 2 diabetes mellitus,6,0.0034,1.0,9,9
+43530685,Proliferative retinopathy due to type 2 diabetes mellitus,6,0.0034,1.0,9,9
+4132546,Traumatic brain injury,5,0.0029,1.2,9,2
+4160024,Poor muscle tone,5,0.0029,1.0,9,9
+4043241,Familial Alzheimer's disease of early onset,5,0.0029,1.2,9,3
+4035415,Tear of meniscus of knee,5,0.0029,1.2,9,3
+4001336,Concussion injury of brain,5,0.0029,1.0,9,9
+317009,Asthma,4,0.0023,1.0,9,9
+4196262,Metastasis from malignant tumor of prostate,4,0.0023,1.0,9,9
+196456,Gallstone,4,0.0023,1.0,9,9
+198809,Acute cholecystitis,4,0.0023,1.0,9,9
+80809,Rheumatoid arthritis,4,0.0023,1.0,9,9
+4311765,Secondary malignant neoplasm of colon,4,0.0023,1.0,9,9
+4306084,Dislocation of hip joint,4,0.0023,1.0,9,10
+44782520,Chronic paralysis due to lesion of spinal cord,3,0.0017,1.0,9,10
+4282096,"Major depression, single episode",3,0.0017,1.0,9,10
+4299128,Full thickness burn,3,0.0017,1.0,10,10
+197500,Primary malignant neoplasm of colon,3,0.0017,1.0,10,10
+4110591,Small cell carcinoma of lung,2,0.0011,1.0,10,10
+201965,Shock,2,0.0011,1.0,10,10
+37395648,"Primary small cell malignant neoplasm of lung, TNM stage 1",2,0.0011,1.0,10,10
+40277917,Intellectual disability,2,0.0011,1.0,10,10
+198199,Pyelonephritis,2,0.0011,1.5,10,1
+443597,Chronic kidney disease stage 3,2,0.0011,1.5,10,1
+4207204,Excessive salivation,2,0.0011,1.0,10,10
+45757499,Proteinuria due to type 2 diabetes mellitus,2,0.0011,1.5,10,1
+4066995,Fracture of vertebral column with spinal cord injury,2,0.0011,1.0,10,10
+4266842,Dribbling from mouth,1,0.0006,1.0,10,10
+4329041,Pain,1,0.0006,1.0,10,10
+45763582,Blindness due to type 2 diabetes mellitus,1,0.0006,1.0,10,10
+4021336,At risk for suicide,1,0.0006,1.0,10,10
+75860,Constipation,1,0.0006,1.0,10,10
+375800,Dystonia,1,0.0006,1.0,10,10

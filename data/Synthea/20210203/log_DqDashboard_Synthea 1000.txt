@@ -1,0 +1,28 @@
+2021-03-16 17:12:52	[Main thread]	INFO	DataQualityDashboard	FUN	Processing check description: measurePersonCompleteness
+2021-03-16 17:12:53	[Main thread]	INFO	DataQualityDashboard	FUN	Processing check description: cdmField
+2021-03-16 17:12:57	[Main thread]	ERROR	DataQualityDashboard	3	[Level: FIELD] [Check: cdmField] [CDM Table: NOTE_NLP] [CDM Field: OFFSET] Error executing SQL: org.postgresql.util.PSQLException: ERROR: syntax error at or near "OFFSET"   Position: 274 An error report has been created at  c:/ares/public/data/Synthea/20210203/errors/FIELD_cdmField_NOTE_NLP_OFFSET.txt
+2021-03-16 17:12:59	[Main thread]	ERROR	DataQualityDashboard	3	[Level: FIELD] [Check: cdmField] [CDM Table: COST] [CDM Field: REVENUE_CODE_SOURCE_VALUE] Error executing SQL: org.postgresql.util.PSQLException: ERROR: column "revenue_code_source_value" does not exist   Hint: Perhaps you meant to reference the column "cdmtable.reveue_code_source_value".   Position: 274 An error report has been created at  c:/ares/public/data/Synthea/20210203/errors/FIELD_cdmField_COST_REVENUE_CODE_SOURCE_VALUE.txt
+2021-03-16 17:13:00	[Main thread]	INFO	DataQualityDashboard	FUN	Processing check description: isRequired
+2021-03-16 17:13:03	[Main thread]	INFO	DataQualityDashboard	FUN	Processing check description: cdmDatatype
+2021-03-16 17:13:07	[Main thread]	INFO	DataQualityDashboard	FUN	Processing check description: isPrimaryKey
+2021-03-16 17:13:08	[Main thread]	INFO	DataQualityDashboard	FUN	Processing check description: isForeignKey
+2021-03-16 17:13:52	[Main thread]	INFO	DataQualityDashboard	FUN	Processing check description: fkDomain
+2021-03-16 17:14:21	[Main thread]	INFO	DataQualityDashboard	FUN	Processing check description: fkClass
+2021-03-16 17:14:22	[Main thread]	INFO	DataQualityDashboard	FUN	Processing check description: isStandardValidConcept
+2021-03-16 17:14:53	[Main thread]	INFO	DataQualityDashboard	FUN	Processing check description: measureValueCompleteness
+2021-03-16 17:14:58	[Main thread]	ERROR	DataQualityDashboard	3	[Level: FIELD] [Check: measureValueCompleteness] [CDM Table: NOTE_NLP] [CDM Field: OFFSET] Error executing SQL: org.postgresql.util.PSQLException: ERROR: column cdmtable.offset does not exist   Position: 398 An error report has been created at  c:/ares/public/data/Synthea/20210203/errors/FIELD_measureValueCompleteness_NOTE_NLP_OFFSET.txt
+2021-03-16 17:15:01	[Main thread]	ERROR	DataQualityDashboard	3	[Level: FIELD] [Check: measureValueCompleteness] [CDM Table: COST] [CDM Field: REVENUE_CODE_SOURCE_VALUE] Error executing SQL: org.postgresql.util.PSQLException: ERROR: column cdmtable.revenue_code_source_value does not exist   Hint: Perhaps you meant to reference the column "cdmtable.reveue_code_source_value".   Position: 409 An error report has been created at  c:/ares/public/data/Synthea/20210203/errors/FIELD_measureValueCompleteness_COST_REVENUE_CODE_SOURCE_VALUE.txt
+2021-03-16 17:15:01	[Main thread]	INFO	DataQualityDashboard	FUN	Processing check description: standardConceptRecordCompleteness
+2021-03-16 17:15:02	[Main thread]	ERROR	DataQualityDashboard	3	[Level: FIELD] [Check: standardConceptRecordCompleteness] [CDM Table: SPECIMEN] [CDM Field: UNIT_CONCEPT_ID] Error executing SQL: org.postgresql.util.PSQLException: ERROR: column cdmtable.value_as_number does not exist   Position: 440 An error report has been created at  c:/ares/public/data/Synthea/20210203/errors/FIELD_standardConceptRecordCompleteness_SPECIMEN_UNIT_CONCEPT_ID.txt
+2021-03-16 17:15:03	[Main thread]	ERROR	DataQualityDashboard	3	[Level: FIELD] [Check: standardConceptRecordCompleteness] [CDM Table: DOSE_ERA] [CDM Field: UNIT_CONCEPT_ID] Error executing SQL: org.postgresql.util.PSQLException: ERROR: column cdmtable.value_as_number does not exist   Position: 440 An error report has been created at  c:/ares/public/data/Synthea/20210203/errors/FIELD_standardConceptRecordCompleteness_DOSE_ERA_UNIT_CONCEPT_ID.txt
+2021-03-16 17:15:03	[Main thread]	INFO	DataQualityDashboard	FUN	Processing check description: sourceConceptRecordCompleteness
+2021-03-16 17:15:03	[Main thread]	INFO	DataQualityDashboard	FUN	Processing check description: sourceValueCompleteness
+2021-03-16 17:15:04	[Main thread]	INFO	DataQualityDashboard	FUN	Processing check description: plausibleValueLow
+2021-03-16 17:15:06	[Main thread]	INFO	DataQualityDashboard	FUN	Processing check description: plausibleValueHigh
+2021-03-16 17:15:07	[Main thread]	INFO	DataQualityDashboard	FUN	Processing check description: plausibleTemporalAfter
+2021-03-16 17:15:08	[Main thread]	INFO	DataQualityDashboard	FUN	Processing check description: plausibleDuringLife
+2021-03-16 17:15:09	[Main thread]	INFO	DataQualityDashboard	FUN	Processing check description: plausibleValueLow
+2021-03-16 17:15:41	[Main thread]	INFO	DataQualityDashboard	FUN	Processing check description: plausibleValueHigh
+2021-03-16 17:16:12	[Main thread]	INFO	DataQualityDashboard	FUN	Processing check description: plausibleGender
+2021-03-16 17:16:30	[Main thread]	INFO	DataQualityDashboard	.summarizeResults	Writing results to file: c:/ares/public/data/Synthea/20210203/dq-result.json
+2021-03-16 17:16:30	[Main thread]	INFO	DataQualityDashboard	executeDqChecks	Execution Complete

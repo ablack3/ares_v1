@@ -1,0 +1,120 @@
+CONCEPT_ID,CONCEPT_NAME,NUM_PERSONS,PERCENT_PERSONS,RECORDS_PER_PERSON,PERCENT_PERSONS_NTILE,RECORDS_PER_PERSON_NTILE
+1127433,acetaminophen 325 MG Oral Tablet,54,0.4426,  1.2,1,4
+19078461,ibuprofen 200 MG Oral Tablet,24,0.1967,  1.0,1,5
+1115171,naproxen sodium 220 MG Oral Tablet,23,0.1885,  1.1,1,5
+19020053,acetaminophen 500 MG Oral Tablet,21,0.1721,  1.0,1,5
+40160973,0.4 ML enoxaparin sodium 100 MG/ML Prefilled Syringe,20,0.1639,  1.0,1,5
+1713671,amoxicillin 250 MG / clavulanate 125 MG Oral Tablet,19,0.1557,  1.0,1,5
+40229134,acetaminophen 21.7 MG/ML / dextromethorphan hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution,17,0.1393,  1.0,1,5
+19080128,lisinopril 10 MG Oral Tablet,16,0.1311, 40.9,1,1
+40160997,1 ML enoxaparin sodium 150 MG/ML Prefilled Syringe,14,0.1148,  1.0,1,5
+1539463,simvastatin 10 MG Oral Tablet,14,0.1148, 22.7,1,2
+40224805,1 ML medroxyprogesterone acetate 150 MG/ML Injection,13,0.1066,  1.4,1,4
+40162606,acetaminophen 300 MG / hydrocodone bitartrate 5 MG Oral Tablet,13,0.1066,  5.7,1,3
+19078106,hydrochlorothiazide 25 MG Oral Tablet,12,0.0984, 42.4,2,1
+1511248,NDA020503 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler,12,0.0984, 10.4,2,2
+19133873,penicillin V potassium 250 MG Oral Tablet,11,0.0902,  1.1,2,5
+19079924,acetaminophen 160 MG Chewable Tablet,11,0.0902,  1.5,2,4
+1519937,etonogestrel 68 MG Drug Implant,11,0.0902,  1.5,2,4
+19073183,amoxicillin 250 MG Oral Capsule,10,0.0820,  1.4,2,4
+19019979,ibuprofen 100 MG Oral Tablet,10,0.0820,  1.2,2,4
+19073094,amlodipine 2.5 MG Oral Tablet,9,0.0738, 50.2,2,1
+1594382,NDA020800 0.3 ML epinephrine 1 MG/ML Auto-Injector,9,0.0738,  1.0,2,5
+40165015,meperidine hydrochloride 50 MG Oral Tablet,8,0.0656,  1.0,2,5
+19127922,{28 (norethindrone 0.35 MG Oral Tablet) } Pack [Camila 28 Day],7,0.0574,  1.3,2,4
+1154062,72 HR fentanyl 0.025 MG/HR Transdermal System,7,0.0574,  7.4,2,3
+19127904,{24 (drospirenone 3 MG / ethinyl estradiol 0.02 MG Oral Tablet) / 4 (inert ingredients 1 MG Oral Tablet) } Pack [Yaz 28 Day],6,0.0492,  1.0,3,5
+19129144,{28 (norethindrone 0.35 MG Oral Tablet) } Pack [Jolivette 28 Day],6,0.0492,  2.0,3,3
+19128263,{7 (ethinyl estradiol 0.035 MG / norgestimate 0.18 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.215 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.25 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Tr,6,0.0492,  1.5,3,4
+19128009,{7 (ethinyl estradiol 0.01 MG Oral Tablet) / 84 (ethinyl estradiol 0.03 MG / levonorgestrel 0.15 MG Oral Tablet) } Pack [Seasonique],6,0.0492,  1.0,3,6
+40231805,Abuse-Deterrent 12 HR oxycodone hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin],6,0.0492,  7.8,3,3
+43012433,21 DAY ethinyl estradiol 0.000625 MG/HR / etonogestrel 0.005 MG/HR Vaginal System [NuvaRing],6,0.0492,  1.0,3,6
+40163554,warfarin sodium 5 MG Oral Tablet,6,0.0492, 52.0,3,1
+19018935,digoxin 0.125 MG Oral Tablet,6,0.0492, 52.0,3,1
+40231925,acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet,6,0.0492,  3.5,3,3
+19133905,penicillin V potassium 500 MG Oral Tablet,6,0.0492,  1.2,3,5
+19133679,{28 (norethindrone 0.35 MG Oral Tablet) } Pack [Errin 28 Day],6,0.0492,  1.7,3,4
+19077344,ferrous sulfate 325 MG Oral Tablet,6,0.0492,  1.0,3,6
+19126352,nitroglycerin 0.4 MG/ACTUAT Mucosal Spray,5,0.0410, 16.2,4,2
+40171902,verapamil hydrochloride 40 MG,5,0.0410, 60.8,4,1
+19127918,{21 (ethinyl estradiol 0.03 MG / levonorgestrel 0.15 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Levora 0.15/30 28 Day],5,0.0410,  1.0,4,6
+1718758,1 ML docetaxel 20 MG/ML Injection,5,0.0410,  1.0,4,6
+1718765,12 HR hydrocodone bitartrate 10 MG Extended Release Oral Capsule,5,0.0410,  6.8,4,3
+19033893,ibuprofen 400 MG Oral Tablet [Ibu],5,0.0410, 12.8,4,2
+1351705,0.25 ML leuprolide acetate 30 MG/ML Prefilled Syringe,5,0.0410,  1.0,4,6
+1321363,4 ML norepinephrine 1 MG/ML Injection,4,0.0328,  1.0,4,6
+40221415,{5 (dienogest 2 MG / estradiol valerate 2 MG Oral Tablet) / 17 (dienogest 3 MG / estradiol valerate 2 MG Oral Tablet) / 2 (estradiol valerate 1 MG Oral Tablet) / 2 (estradiol valerate 3 MG Oral Tablet) / 2 (inert ingredients 1 MG Oral Tablet) } Pack [Nata,4,0.0328,  1.0,4,6
+19073188,amoxicillin 500 MG Oral Tablet,4,0.0328,  1.0,4,6
+40232448,diphenhydramine hydrochloride 25 MG Oral Tablet,4,0.0328,  1.0,4,6
+40163924,24 HR metformin hydrochloride 500 MG Extended Release Oral Tablet,4,0.0328,183.5,4,1
+46275427,piperacillin 2000 MG / tazobactam 250 MG Injection,4,0.0328,  1.0,5,6
+19075601,clopidogrel 75 MG Oral Tablet,4,0.0328, 13.8,5,2
+19009384,"insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin]",4,0.0328,163.2,5,1
+1539411,simvastatin 20 MG Oral Tablet,4,0.0328, 14.8,5,2
+1378388,paclitaxel 100 MG Injection,4,0.0328, 31.8,5,1
+40221352,150 ML vancomycin 5 MG/ML Injection,4,0.0328,  1.0,5,6
+19132304,levonorgestrel 0.000833 MG/HR Intrauterine System [Mirena],4,0.0328,  1.0,5,7
+40231918,acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet [Percocet],4,0.0328, 16.0,5,2
+19059056,aspirin 81 MG Oral Tablet,4,0.0328,  1.0,5,7
+1154380,albuterol 5 MG/ML Inhalation Solution,3,0.0246,  1.0,5,7
+920300,nitrofurantoin 5 MG/ML Oral Suspension,3,0.0246,  2.0,5,3
+957136,furosemide 40 MG Oral Tablet,3,0.0246, 14.3,5,2
+964261,vitamin B12 5 MG/ML Injectable Solution,3,0.0246,  1.0,6,7
+19075001,cefuroxime 250 MG Oral Tablet,3,0.0246,  1.0,6,7
+1332419,amlodipine 5 MG Oral Tablet,3,0.0246, 18.3,6,2
+19008572,hydrocortisone 10 MG/ML Topical Cream,3,0.0246,  1.0,6,7
+19022781,carvedilol 25 MG Oral Tablet,3,0.0246, 14.3,6,2
+19041324,acetaminophen 325 MG Oral Tablet [Tylenol],3,0.0246,  8.3,6,3
+19125062,loratadine 5 MG Chewable Tablet,3,0.0246,  1.0,6,7
+19133768,acetaminophen 750 MG / hydrocodone bitartrate 7.5 MG Oral Tablet,3,0.0246,  1.0,6,7
+35202042,1 ML vasopressin (USP) 20 UNT/ML Injection,3,0.0246,  1.0,6,7
+35603224,10 ML furosemide 10 MG/ML Injection,3,0.0246,  1.0,6,7
+35604087,cisplatin 50 MG Injection,3,0.0246, 39.7,6,1
+40173590,alendronic acid 10 MG Oral Tablet,3,0.0246,  1.0,6,7
+40185304,losartan potassium 50 MG Oral Tablet,3,0.0246, 14.0,7,2
+40221355,vancomycin 1000 MG Injection,3,0.0246,  1.0,7,7
+40236824,phenazopyridine hydrochloride 100 MG Oral Tablet,3,0.0246,  2.0,7,4
+46275444,piperacillin 4000 MG / tazobactam 500 MG Injection,3,0.0246,  1.0,7,8
+40223821,fexofenadine hydrochloride 30 MG Oral Tablet,2,0.0164,  1.0,7,8
+40162522,acetaminophen 325 MG / hydrocodone bitartrate 7.5 MG Oral Tablet,2,0.0164,  1.0,7,8
+35603924,10 ML oxaliplatin 5 MG/ML Injection,2,0.0164,  1.0,7,8
+19019851,tamoxifen 10 MG Oral Tablet,2,0.0164,  1.0,7,8
+1718701,Abuse-Deterrent 12 HR oxycodone hydrochloride 15 MG Extended Release Oral Tablet,2,0.0164,  7.5,7,3
+40220871,leucovorin 100 MG Injection,2,0.0164,  1.0,7,8
+40220960,alteplase 100 MG Injection,2,0.0164,  1.0,7,8
+1718412,levonorgestrel 0.000729 MG/HR Intrauterine System [Kyleena],2,0.0164,  1.0,7,8
+19123231,atomoxetine 100 MG Oral Capsule,2,0.0164,  1.0,8,8
+1551192,prednisone 5 MG Oral Tablet,2,0.0164,  1.5,8,4
+19112599,chlorpheniramine maleate 2 MG/ML Oral Solution,2,0.0164,  1.0,8,8
+19080129,lisinopril 20 MG Oral Tablet,2,0.0164, 16.0,8,2
+40169216,120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler,2,0.0164, 47.5,8,1
+19074679,carbamazepine 20 MG/ML Oral Suspension [Tegretol],2,0.0164,  1.0,8,8
+40221901,acetaminophen 300 MG / codeine phosphate 15 MG Oral Tablet,2,0.0164,  8.0,8,3
+19019308,24 HR nicotine 0.292 MG/HR Transdermal System,2,0.0164,  1.0,8,8
+19134047,tramadol hydrochloride 50 MG Oral Tablet,2,0.0164,  7.0,8,3
+1150837,terfenadine 60 MG Oral Tablet,1,0.0082,  1.0,8,9
+1150771,astemizole 10 MG Oral Tablet,1,0.0082,  1.0,8,9
+1107882,loratadine 10 MG Oral Tablet,1,0.0082,  1.0,8,9
+1101556,colchicine 0.6 MG Oral Tablet,1,0.0082,  1.0,9,9
+920334,"nitrofurantoin, macrocrystals 50 MG Oral Capsule",1,0.0082,  1.0,9,9
+19128065,{7 (inert ingredients 1 MG Oral Tablet) / 21 (mestranol 0.05 MG / norethindrone 1 MG Oral Tablet) } Pack [Norinyl 1+50 28 Day],1,0.0082,  4.0,9,3
+19077572,galantamine 4 MG Oral Tablet,1,0.0082,  1.0,9,9
+46275916,1 ML epinephrine 1 MG/ML Injection,1,0.0082,  1.0,9,9
+19073777,azithromycin 250 MG Oral Tablet,1,0.0082,  1.0,9,9
+19028343,clonazepam 0.25 MG Oral Tablet,1,0.0082,  1.0,9,9
+40241958,chloroquine phosphate 500 MG Oral Tablet,1,0.0082,  1.0,9,9
+40243436,1 ML atropine sulfate 1 MG/ML Injection,1,0.0082,  1.0,9,9
+739207,sertraline 100 MG Oral Tablet,1,0.0082,  1.0,9,9
+40162603,acetaminophen 300 MG / hydrocodone bitartrate 10 MG Oral Tablet,1,0.0082,  1.0,9,10
+19019273,naproxen 500 MG Oral Tablet,1,0.0082,  1.0,9,10
+40169281,60 ACTUAT fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler,1,0.0082, 29.0,10,1
+1545959,atorvastatin 80 MG Oral Tablet,1,0.0082,  1.0,10,10
+44816277,168 HR ethinyl estradiol 0.00146 MG/HR / norelgestromin 0.00625 MG/HR Transdermal System,1,0.0082,  1.0,10,10
+40174880,levothyroxine sodium 0.075 MG Oral Tablet,1,0.0082,  1.0,10,10
+45892894,24 HR donepezil hydrochloride 10 MG / memantine hydrochloride 28 MG Extended Release Oral Capsule,1,0.0082,  1.0,10,10
+1366764,5 ML hyaluronidase-oysk 2000 UNT/ML / trastuzumab-oysk 120 MG/ML Injection,1,0.0082,  1.0,10,10
+723042,diazepam 5 MG Oral Tablet,1,0.0082,  1.0,10,10
+1310034,3 ML amiodarone hydrochloride 50 MG/ML Prefilled Syringe,1,0.0082,  1.0,10,10
+40222846,memantine hydrochloride 2 MG/ML Oral Solution,1,0.0082,  1.0,10,10
+1167323,allopurinol 100 MG Oral Tablet,1,0.0082,  2.0,10,4
+40228230,cetirizine hydrochloride 5 MG Oral Tablet,1,0.0082,  1.0,10,10

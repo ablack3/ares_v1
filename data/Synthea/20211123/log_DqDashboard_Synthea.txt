@@ -1,0 +1,26 @@
+2021-11-23 16:36:43	[Main thread]	INFO	DataQualityDashboard	FUN	Processing check description: measurePersonCompleteness
+2021-11-23 16:36:44	[Main thread]	INFO	DataQualityDashboard	FUN	Processing check description: cdmField
+2021-11-23 16:36:54	[Main thread]	WARN	DataQualityDashboard	3	[Level: FIELD] [Check: cdmField] [CDM Table: NOTE_NLP] [CDM Field: "OFFSET"] cannot open file 'D:/OHDSI/Ares/dist/data/Synthea/20211123/errors/FIELD_cdmField_NOTE_NLP_"OFFSET".txt': Invalid argument
+2021-11-23 16:36:54	[Main thread]	WARN	methods	initialize	closing unused connection 3 (D:/OHDSI/Ares/dist/data/Synthea/20211123/errors/FIELD_cdmField_NOTE_NLP_"OFFSET".txt)
+2021-11-23 16:37:00	[Main thread]	INFO	DataQualityDashboard	FUN	Processing check description: isRequired
+2021-11-23 16:37:07	[Main thread]	INFO	DataQualityDashboard	FUN	Processing check description: cdmDatatype
+2021-11-23 16:37:16	[Main thread]	INFO	DataQualityDashboard	FUN	Processing check description: isPrimaryKey
+2021-11-23 16:37:17	[Main thread]	INFO	DataQualityDashboard	FUN	Processing check description: isForeignKey
+2021-11-23 16:37:25	[Main thread]	INFO	DataQualityDashboard	FUN	Processing check description: fkDomain
+2021-11-23 16:37:27	[Main thread]	INFO	DataQualityDashboard	FUN	Processing check description: fkClass
+2021-11-23 16:37:27	[Main thread]	INFO	DataQualityDashboard	FUN	Processing check description: isStandardValidConcept
+2021-11-23 16:37:29	[Main thread]	INFO	DataQualityDashboard	FUN	Processing check description: measureValueCompleteness
+2021-11-23 16:37:43	[Main thread]	INFO	DataQualityDashboard	FUN	Processing check description: standardConceptRecordCompleteness
+2021-11-23 16:37:45	[Main thread]	INFO	DataQualityDashboard	FUN	Processing check description: sourceConceptRecordCompleteness
+2021-11-23 16:37:46	[Main thread]	INFO	DataQualityDashboard	FUN	Processing check description: sourceValueCompleteness
+2021-11-23 16:37:47	[Main thread]	INFO	DataQualityDashboard	FUN	Processing check description: plausibleValueLow
+2021-11-23 16:37:51	[Main thread]	INFO	DataQualityDashboard	FUN	Processing check description: plausibleValueHigh
+2021-11-23 16:37:53	[Main thread]	INFO	DataQualityDashboard	FUN	Processing check description: plausibleTemporalAfter
+2021-11-23 16:37:56	[Main thread]	INFO	DataQualityDashboard	FUN	Processing check description: plausibleDuringLife
+2021-11-23 16:37:58	[Main thread]	INFO	DataQualityDashboard	FUN	Processing check description: plausibleValueLow
+2021-11-23 16:38:35	[Main thread]	INFO	DataQualityDashboard	FUN	Processing check description: plausibleValueHigh
+2021-11-23 16:39:08	[Main thread]	INFO	DataQualityDashboard	FUN	Processing check description: plausibleGender
+2021-11-23 16:39:27	[Main thread]	INFO	DataQualityDashboard	.summarizeResults	Writing results to file: D:/OHDSI/Ares/dist/data/Synthea/20211123/dq-result.json
+2021-11-23 16:39:27	[Main thread]	INFO	DataQualityDashboard	executeDqChecks	Execution Complete
+2021-11-23 16:39:27	[Main thread]	INFO	DataQualityDashboard	.writeResultsToTable	Writing results to table cdm_20211123_1628.dqdashboard_results
+2021-11-23 16:39:28	[Main thread]	INFO	DataQualityDashboard	.writeResultsToTable	Finished writing table

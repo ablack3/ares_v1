@@ -1,0 +1,57 @@
+DBMS:
+postgresql
+
+Error:
+org.postgresql.util.PSQLException: ERROR: column "revenue_code_source_value" does not exist
+  Hint: Perhaps you meant to reference the column "cdmtable.reveue_code_source_value".
+  Position: 274
+
+SQL:
+
+/*********
+FIELD LEVEL check:
+CDM_FIELD - verify the field exists
+
+Parameters used in this template:
+cdmDatabaseSchema = s20210203_cdm_v531
+cdmTableName = COST
+cdmFieldName = REVENUE_CODE_SOURCE_VALUE
+
+**********/
+
+
+SELECT num_violated_rows, CASE WHEN denominator.num_rows = 0 THEN 0 ELSE 1.0*num_violated_rows/denominator.num_rows END AS pct_violated_rows, 
+  denominator.num_rows as num_denominator_rows
+FROM
+(
+  select num_violated_rows from
+  (
+    select
+      case when COUNT(REVENUE_CODE_SOURCE_VALUE) = 0 then 0
+      else 0
+    end as num_violated_rows
+    from s20210203_cdm_v531.COST cdmTable
+  ) violated_rows
+) violated_row_count,
+( 
+	SELECT 1 as num_rows
+) denominator
+;
+
+R version:
+R version 4.0.4 (2021-02-15)
+
+Platform:
+x86_64-w64-mingw32
+
+Attached base packages:
+- stats
+- graphics
+- grDevices
+- utils
+- datasets
+- methods
+- base
+
+Other attached packages:
+- magrittr (2.0.1)

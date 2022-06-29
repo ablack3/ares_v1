@@ -1,0 +1,12 @@
+CONCEPT_ID,CONCEPT_NAME,NUM_PERSONS,PERCENT_PERSONS,RECORDS_PER_PERSON,PERCENT_PERSONS_NTILE,RECORDS_PER_PERSON_NTILE
+43054909,Tobacco smoking status,113,1.0000,10.6,1,1
+37311060,Suspected disease caused by 2019-nCoV,91,0.8053, 1.0,1,5
+4060985,Body mass index 30+ - obesity,40,0.3540, 1.0,2,6
+46235652,Pain severity in the past week - 0-10 numeric rating [Reported],24,0.2124, 2.2,3,2
+1175797,What number best describes how pain has interfered with your general activity during the past week,24,0.2124, 2.2,4,3
+1175723,What number best describes how pain has interfered with your enjoyment of life during the past week,24,0.2124, 2.2,5,4
+3034263,Pain severity - Reported,15,0.1327, 9.5,6,1
+40771960,Cause of death [US Standard Certificate of Death],11,0.0974, 1.0,7,7
+4302207,Allergy to grass pollen,6,0.0531, 1.0,8,8
+4323208,History of appendectomy,6,0.0531, 1.0,9,9
+4048169,Allergy to dust mite protein,6,0.0531, 1.0,10,10

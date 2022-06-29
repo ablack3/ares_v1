@@ -1,0 +1,357 @@
+DB_NAME,CDM_TABLE_NAME,CONCEPT_ID,CONCEPT_NAME,SEASONALITY_SCORE,IS_STATIONARY
+Synthea,CONDITION_OCCURRENCE,28060,"Streptococcal sore throat",0.15,FALSE
+Synthea,CONDITION_OCCURRENCE,78272,"Sprain of wrist",0.14,TRUE
+Synthea,CONDITION_OCCURRENCE,80502,"Osteoporosis",0.17,TRUE
+Synthea,CONDITION_OCCURRENCE,81151,"Sprain of ankle",0.14,FALSE
+Synthea,CONDITION_OCCURRENCE,132797,"Sepsis",0.28,TRUE
+Synthea,CONDITION_OCCURRENCE,192279,"Disorder of kidney due to diabetes mellitus",0.23,TRUE
+Synthea,CONDITION_OCCURRENCE,201826,"Type 2 diabetes mellitus",0.2,TRUE
+Synthea,CONDITION_OCCURRENCE,257012,"Chronic sinusitis",0.14,TRUE
+Synthea,CONDITION_OCCURRENCE,260139,"Acute bronchitis",0.08,FALSE
+Synthea,CONDITION_OCCURRENCE,313217,"Atrial fibrillation",0.16,TRUE
+Synthea,CONDITION_OCCURRENCE,317576,"Coronary arteriosclerosis",0.42,TRUE
+Synthea,CONDITION_OCCURRENCE,320128,"Essential hypertension",0.26,TRUE
+Synthea,CONDITION_OCCURRENCE,321042,"Cardiac arrest",0.26,TRUE
+Synthea,CONDITION_OCCURRENCE,372328,"Otitis media",0.08,FALSE
+Synthea,CONDITION_OCCURRENCE,378001,"Concussion with no loss of consciousness",0.17,TRUE
+Synthea,CONDITION_OCCURRENCE,378419,"Alzheimer's disease",0.17,TRUE
+Synthea,CONDITION_OCCURRENCE,380378,"Epilepsy",0.27,TRUE
+Synthea,CONDITION_OCCURRENCE,381316,"Cerebrovascular accident",0.12,TRUE
+Synthea,CONDITION_OCCURRENCE,432867,"Hyperlipidemia",0.11,TRUE
+Synthea,CONDITION_OCCURRENCE,436096,"Chronic pain",0.23,TRUE
+Synthea,CONDITION_OCCURRENCE,436940,"Metabolic syndrome X",0.11,TRUE
+Synthea,CONDITION_OCCURRENCE,439393,"Pre-eclampsia",0.32,TRUE
+Synthea,CONDITION_OCCURRENCE,439777,"Anemia",0.11,TRUE
+Synthea,CONDITION_OCCURRENCE,440448,"Appendicitis",0.21,TRUE
+Synthea,CONDITION_OCCURRENCE,443614,"Chronic kidney disease stage 1",0.22,TRUE
+Synthea,CONDITION_OCCURRENCE,4029498,"Seizure disorder",0.42,TRUE
+Synthea,CONDITION_OCCURRENCE,4048171,"Perennial allergic rhinitis with seasonal variation",0.36,TRUE
+Synthea,CONDITION_OCCURRENCE,4051466,"Childhood asthma",0.28,TRUE
+Synthea,CONDITION_OCCURRENCE,4055754,"Impacted molars",0.16,TRUE
+Synthea,CONDITION_OCCURRENCE,4059173,"Fracture of ankle",0.26,TRUE
+Synthea,CONDITION_OCCURRENCE,4078393,"Miscarriage in first trimester",0.16,TRUE
+Synthea,CONDITION_OCCURRENCE,4079750,"Osteoarthritis of knee",0.17,TRUE
+Synthea,CONDITION_OCCURRENCE,4109685,"Laceration of foot",0.11,TRUE
+Synthea,CONDITION_OCCURRENCE,4112343,"Acute viral pharyngitis",0.07,FALSE
+Synthea,CONDITION_OCCURRENCE,4113008,"Laceration of hand",0.13,TRUE
+Synthea,CONDITION_OCCURRENCE,4116491,"Escherichia coli urinary tract infection",0.16,TRUE
+Synthea,CONDITION_OCCURRENCE,4120314,"Hypertriglyceridemia",0.22,TRUE
+Synthea,CONDITION_OCCURRENCE,4134304,"Fracture subluxation of wrist",0.23,TRUE
+Synthea,CONDITION_OCCURRENCE,4152936,"Laceration of thigh",0.25,TRUE
+Synthea,CONDITION_OCCURRENCE,4155034,"Laceration of forearm",0.2,TRUE
+Synthea,CONDITION_OCCURRENCE,4156265,"Facial laceration",0.28,TRUE
+Synthea,CONDITION_OCCURRENCE,4208104,"Drug overdose",0.16,TRUE
+Synthea,CONDITION_OCCURRENCE,4214376,"Hyperglycemia",0.25,TRUE
+Synthea,CONDITION_OCCURRENCE,4217975,"Normal pregnancy",0.03,FALSE
+Synthea,CONDITION_OCCURRENCE,4218389,"Whiplash injury to neck",0.16,TRUE
+Synthea,CONDITION_OCCURRENCE,4229440,"Chronic congestive heart failure",0.23,TRUE
+Synthea,CONDITION_OCCURRENCE,4237458,"Fracture of clavicle",0.2,TRUE
+Synthea,CONDITION_OCCURRENCE,4278672,"Fracture of forearm",0.1,TRUE
+Synthea,CONDITION_OCCURRENCE,4283893,"Sinusitis",0.13,TRUE
+Synthea,CONDITION_OCCURRENCE,4285898,"Polyp of colon",0.14,TRUE
+Synthea,CONDITION_OCCURRENCE,4294548,"Acute bacterial sinusitis",0.19,TRUE
+Synthea,CONDITION_OCCURRENCE,4296204,"Epidermal burn of skin",0.2,TRUE
+Synthea,CONDITION_OCCURRENCE,4311629,"Impaired glucose tolerance",0.11,TRUE
+Synthea,CONDITION_OCCURRENCE,40318618,"Complete miscarriage",0.2,TRUE
+Synthea,CONDITION_OCCURRENCE,40481087,"Viral sinusitis",0.05,FALSE
+Synthea,CONDITION_OCCURRENCE,40486433,"Perennial allergic rhinitis",0.26,TRUE
+Synthea,CONDITION_OCCURRENCE,43530652,"Chronic intractable migraine without aura",0.18,TRUE
+Synthea,DEVICE_EXPOSURE,4217646,"Implantable defibrillator",0.29,TRUE
+Synthea,DRUG_EXPOSURE,920300,"nitrofurantoin 5 MG/ML Oral Suspension",0.16,TRUE
+Synthea,DRUG_EXPOSURE,957136,"furosemide 40 MG Oral Tablet",0.16,TRUE
+Synthea,DRUG_EXPOSURE,964261,"vitamin B12 5 MG/ML Injectable Solution",0.21,TRUE
+Synthea,DRUG_EXPOSURE,1115171,"naproxen sodium 220 MG Oral Tablet",0.08,TRUE
+Synthea,DRUG_EXPOSURE,1127433,"acetaminophen 325 MG Oral Tablet",0.05,FALSE
+Synthea,DRUG_EXPOSURE,1133231,"buprenorphine 2 MG / naloxone 0.5 MG Sublingual Tablet",0.37,TRUE
+Synthea,DRUG_EXPOSURE,1154062,"72 HR fentanyl 0.025 MG/HR Transdermal System",0.14,FALSE
+Synthea,DRUG_EXPOSURE,1332419,"amlodipine 5 MG Oral Tablet",0.05,TRUE
+Synthea,DRUG_EXPOSURE,1378388,"paclitaxel 100 MG Injection",0.02,FALSE
+Synthea,DRUG_EXPOSURE,1511248,"NDA020503 200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler",0.15,TRUE
+Synthea,DRUG_EXPOSURE,1519937,"etonogestrel 68 MG Drug Implant",0.13,TRUE
+Synthea,DRUG_EXPOSURE,1539411,"simvastatin 20 MG Oral Tablet",0.05,TRUE
+Synthea,DRUG_EXPOSURE,1539463,"simvastatin 10 MG Oral Tablet",0.15,TRUE
+Synthea,DRUG_EXPOSURE,1594382,"NDA020800 0.3 ML epinephrine 1 MG/ML Auto-Injector",0.13,TRUE
+Synthea,DRUG_EXPOSURE,1713671,"amoxicillin 250 MG / clavulanate 125 MG Oral Tablet",0.08,FALSE
+Synthea,DRUG_EXPOSURE,1718701,"Abuse-Deterrent 12 HR oxycodone hydrochloride 15 MG Extended Release Oral Tablet",0.14,FALSE
+Synthea,DRUG_EXPOSURE,1718765,"12 HR hydrocodone bitartrate 10 MG Extended Release Oral Capsule",0.21,TRUE
+Synthea,DRUG_EXPOSURE,19008572,"hydrocortisone 10 MG/ML Topical Cream",0.3,TRUE
+Synthea,DRUG_EXPOSURE,19009384,"insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension [Humulin]",0.02,TRUE
+Synthea,DRUG_EXPOSURE,19018935,"digoxin 0.125 MG Oral Tablet",0.06,TRUE
+Synthea,DRUG_EXPOSURE,19019979,"ibuprofen 100 MG Oral Tablet",0.08,FALSE
+Synthea,DRUG_EXPOSURE,19022781,"carvedilol 25 MG Oral Tablet",0.18,TRUE
+Synthea,DRUG_EXPOSURE,19030765,"1 ML epoetin alfa 4000 UNT/ML Injection [Epogen]",0.03,FALSE
+Synthea,DRUG_EXPOSURE,19033893,"ibuprofen 400 MG Oral Tablet [Ibu]",0.15,TRUE
+Synthea,DRUG_EXPOSURE,19041324,"acetaminophen 325 MG Oral Tablet [Tylenol]",0.15,TRUE
+Synthea,DRUG_EXPOSURE,19073094,"amlodipine 2.5 MG Oral Tablet",0.04,TRUE
+Synthea,DRUG_EXPOSURE,19073183,"amoxicillin 250 MG Oral Capsule",0.15,TRUE
+Synthea,DRUG_EXPOSURE,19075001,"cefuroxime 250 MG Oral Tablet",0.2,TRUE
+Synthea,DRUG_EXPOSURE,19075601,"clopidogrel 75 MG Oral Tablet",0.05,TRUE
+Synthea,DRUG_EXPOSURE,19077344,"ferrous sulfate 325 MG Oral Tablet",0.21,TRUE
+Synthea,DRUG_EXPOSURE,19078106,"hydrochlorothiazide 25 MG Oral Tablet",0.05,TRUE
+Synthea,DRUG_EXPOSURE,19078461,"ibuprofen 200 MG Oral Tablet",0.07,TRUE
+Synthea,DRUG_EXPOSURE,19079924,"acetaminophen 160 MG Chewable Tablet",0.12,TRUE
+Synthea,DRUG_EXPOSURE,19080128,"lisinopril 10 MG Oral Tablet",0.05,TRUE
+Synthea,DRUG_EXPOSURE,19080129,"lisinopril 20 MG Oral Tablet",0.17,TRUE
+Synthea,DRUG_EXPOSURE,19125062,"loratadine 5 MG Chewable Tablet",0.15,TRUE
+Synthea,DRUG_EXPOSURE,19126352,"nitroglycerin 0.4 MG/ACTUAT Mucosal Spray",0.18,TRUE
+Synthea,DRUG_EXPOSURE,19127904,"{24 (drospirenone 3 MG / ethinyl estradiol 0.02 MG Oral Tablet) / 4 (inert ingredients 1 MG Oral Tablet) } Pack [Yaz 28 Day]",0.12,TRUE
+Synthea,DRUG_EXPOSURE,19127918,"{21 (ethinyl estradiol 0.03 MG / levonorgestrel 0.15 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Levora 0.15/30 28 Day]",0.12,TRUE
+Synthea,DRUG_EXPOSURE,19127922,"{28 (norethindrone 0.35 MG Oral Tablet) } Pack [Camila 28 Day]",0.21,TRUE
+Synthea,DRUG_EXPOSURE,19128009,"{7 (ethinyl estradiol 0.01 MG Oral Tablet) / 84 (ethinyl estradiol 0.03 MG / levonorgestrel 0.15 MG Oral Tablet) } Pack [Seasonique]",0.18,TRUE
+Synthea,DRUG_EXPOSURE,19128263,"{7 (ethinyl estradiol 0.035 MG / norgestimate 0.18 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.215 MG Oral Tablet) / 7 (ethinyl estradiol 0.035 MG / norgestimate 0.25 MG Oral Tablet) / 7 (inert ingredients 1 MG Oral Tablet) } Pack [Tr",0.12,TRUE
+Synthea,DRUG_EXPOSURE,19129144,"{28 (norethindrone 0.35 MG Oral Tablet) } Pack [Jolivette 28 Day]",0.1,TRUE
+Synthea,DRUG_EXPOSURE,19132304,"levonorgestrel 0.000833 MG/HR Intrauterine System [Mirena]",0.14,FALSE
+Synthea,DRUG_EXPOSURE,19133679,"{28 (norethindrone 0.35 MG Oral Tablet) } Pack [Errin 28 Day]",0.13,TRUE
+Synthea,DRUG_EXPOSURE,19133873,"penicillin V potassium 250 MG Oral Tablet",0.19,TRUE
+Synthea,DRUG_EXPOSURE,19133905,"penicillin V potassium 500 MG Oral Tablet",0.15,TRUE
+Synthea,DRUG_EXPOSURE,19134047,"tramadol hydrochloride 50 MG Oral Tablet",0.15,FALSE
+Synthea,DRUG_EXPOSURE,35603224,"10 ML furosemide 10 MG/ML Injection",0.23,TRUE
+Synthea,DRUG_EXPOSURE,35604087,"cisplatin 50 MG Injection",0.02,FALSE
+Synthea,DRUG_EXPOSURE,35606289,"etoposide 100 MG Injection",0.04,FALSE
+Synthea,DRUG_EXPOSURE,40162522,"acetaminophen 325 MG / hydrocodone bitartrate 7.5 MG Oral Tablet",0.31,TRUE
+Synthea,DRUG_EXPOSURE,40162606,"acetaminophen 300 MG / hydrocodone bitartrate 5 MG Oral Tablet",0.1,TRUE
+Synthea,DRUG_EXPOSURE,40163554,"warfarin sodium 5 MG Oral Tablet",0.06,TRUE
+Synthea,DRUG_EXPOSURE,40163924,"24 HR metformin hydrochloride 500 MG Extended Release Oral Tablet",0.03,TRUE
+Synthea,DRUG_EXPOSURE,40165015,"meperidine hydrochloride 50 MG Oral Tablet",0.28,TRUE
+Synthea,DRUG_EXPOSURE,40169216,"120 ACTUAT fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler",0.18,TRUE
+Synthea,DRUG_EXPOSURE,40169281,"60 ACTUAT fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler",0.07,TRUE
+Synthea,DRUG_EXPOSURE,40171902,"verapamil hydrochloride 40 MG",0.04,TRUE
+Synthea,DRUG_EXPOSURE,40173590,"alendronic acid 10 MG Oral Tablet",0.18,TRUE
+Synthea,DRUG_EXPOSURE,40185304,"losartan potassium 50 MG Oral Tablet",0.19,TRUE
+Synthea,DRUG_EXPOSURE,40220960,"alteplase 100 MG Injection",0.2,TRUE
+Synthea,DRUG_EXPOSURE,40221352,"150 ML vancomycin 5 MG/ML Injection",0.29,TRUE
+Synthea,DRUG_EXPOSURE,40221415,"{5 (dienogest 2 MG / estradiol valerate 2 MG Oral Tablet) / 17 (dienogest 3 MG / estradiol valerate 2 MG Oral Tablet) / 2 (estradiol valerate 1 MG Oral Tablet) / 2 (estradiol valerate 3 MG Oral Tablet) / 2 (inert ingredients 1 MG Oral Tablet) } Pack [Nata",0.16,TRUE
+Synthea,DRUG_EXPOSURE,40221901,"acetaminophen 300 MG / codeine phosphate 15 MG Oral Tablet",0.22,TRUE
+Synthea,DRUG_EXPOSURE,40223821,"fexofenadine hydrochloride 30 MG Oral Tablet",0.21,TRUE
+Synthea,DRUG_EXPOSURE,40224805,"1 ML medroxyprogesterone acetate 150 MG/ML Injection",0.13,TRUE
+Synthea,DRUG_EXPOSURE,40229134,"acetaminophen 21.7 MG/ML / dextromethorphan hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution",0.13,TRUE
+Synthea,DRUG_EXPOSURE,40231805,"Abuse-Deterrent 12 HR oxycodone hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin]",0.21,TRUE
+Synthea,DRUG_EXPOSURE,40231918,"acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet [Percocet]",0.14,TRUE
+Synthea,DRUG_EXPOSURE,40231925,"acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet",0.17,TRUE
+Synthea,DRUG_EXPOSURE,40232448,"diphenhydramine hydrochloride 25 MG Oral Tablet",0.2,TRUE
+Synthea,DRUG_EXPOSURE,40236824,"phenazopyridine hydrochloride 100 MG Oral Tablet",0.16,TRUE
+Synthea,DRUG_EXPOSURE,43012433,"21 DAY ethinyl estradiol 0.000625 MG/HR / etonogestrel 0.005 MG/HR Vaginal System [NuvaRing]",0.15,FALSE
+Synthea,DRUG_EXPOSURE,44816277,"168 HR ethinyl estradiol 0.00146 MG/HR / norelgestromin 0.00625 MG/HR Transdermal System",0.3,TRUE
+Synthea,DRUG_EXPOSURE,46275427,"piperacillin 2000 MG / tazobactam 250 MG Injection",0.29,TRUE
+Synthea,DRUG_EXPOSURE,46275809,"sacubitril 97 MG / valsartan 103 MG Oral Tablet",0.27,TRUE
+Synthea,MEASUREMENT,3000053,"Head Occipital-frontal circumference",0.45,TRUE
+Synthea,MEASUREMENT,3000185,"Iron saturation [Mass Fraction] in Serum or Plasma",0.1,TRUE
+Synthea,MEASUREMENT,3000285,"Sodium [Moles/volume] in Blood",0.04,FALSE
+Synthea,MEASUREMENT,3000330,"Specific gravity of Urine by Test strip",0.03,FALSE
+Synthea,MEASUREMENT,3000348,"Leukocyte esterase [Presence] in Urine by Test strip",0.03,FALSE
+Synthea,MEASUREMENT,3000483,"Glucose [Mass/volume] in Blood",0.04,FALSE
+Synthea,MEASUREMENT,3000876,"Codfish IgE Ab [Units/volume] in Serum",0.14,TRUE
+Synthea,MEASUREMENT,3000905,"Leukocytes [#/volume] in Blood by Automated count",0.07,FALSE
+Synthea,MEASUREMENT,3000963,"Hemoglobin [Mass/volume] in Blood",0.06,FALSE
+Synthea,MEASUREMENT,3001122,"Ferritin [Mass/volume] in Serum or Plasma",0.1,TRUE
+Synthea,MEASUREMENT,3001247,"Common Ragweed IgE Ab [Units/volume] in Serum",0.14,TRUE
+Synthea,MEASUREMENT,3001420,"Magnesium [Mass/volume] in Serum or Plasma",0.1,TRUE
+Synthea,MEASUREMENT,3001488,"Cow milk IgE Ab [Units/volume] in Serum",0.14,TRUE
+Synthea,MEASUREMENT,3001802,"Microalbumin/Creatinine [Mass Ratio] in Urine",0.04,FALSE
+Synthea,MEASUREMENT,3002400,"Iron [Mass/volume] in Serum or Plasma",0.1,TRUE
+Synthea,MEASUREMENT,3002736,"Platelet distribution width [Entitic volume] in Blood by Automated count",0.04,FALSE
+Synthea,MEASUREMENT,3004249,"Systolic blood pressure",0.14,TRUE
+Synthea,MEASUREMENT,3004295,"Urea nitrogen [Mass/volume] in Blood",0.04,FALSE
+Synthea,MEASUREMENT,3004410,"Hemoglobin A1c/Hemoglobin.total in Blood",0.04,FALSE
+Synthea,MEASUREMENT,3004501,"Glucose [Mass/volume] in Serum or Plasma",0.1,TRUE
+Synthea,MEASUREMENT,3005136,"Cladosporium herbarum IgE Ab [Units/volume] in Serum",0.14,TRUE
+Synthea,MEASUREMENT,3005456,"Potassium [Moles/volume] in Blood",0.04,FALSE
+Synthea,MEASUREMENT,3005897,"Protein [Mass/volume] in Urine by Test strip",0.03,FALSE
+Synthea,MEASUREMENT,3006451,"Walnut IgE Ab [Units/volume] in Serum",0.14,TRUE
+Synthea,MEASUREMENT,3006513,"Bilirubin.total [Mass/volume] in Urine by Test strip",0.03,FALSE
+Synthea,MEASUREMENT,3006734,"White Oak IgE Ab [Units/volume] in Serum",0.14,TRUE
+Synthea,MEASUREMENT,3006906,"Calcium [Mass/volume] in Serum or Plasma",0.1,TRUE
+Synthea,MEASUREMENT,3006923,"Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma",0.13,TRUE
+Synthea,MEASUREMENT,3007070,"Cholesterol in HDL [Mass/volume] in Serum or Plasma",0.04,FALSE
+Synthea,MEASUREMENT,3007876,"Appearance of Urine",0.03,FALSE
+Synthea,MEASUREMENT,3008204,"Clarity of Urine",0.03,FALSE
+Synthea,MEASUREMENT,3009261,"Glucose [Presence] in Urine by Test strip",0.03,FALSE
+Synthea,MEASUREMENT,3009542,"Hematocrit [Volume Fraction] of Blood",0.11,FALSE
+Synthea,MEASUREMENT,3009744,"MCHC [Mass/volume] by Automated count",0.07,FALSE
+Synthea,MEASUREMENT,3009966,"Cholesterol in LDL [Mass/volume] in Serum or Plasma by Direct assay",0.04,FALSE
+Synthea,MEASUREMENT,3011397,"Hemoglobin [Presence] in Urine by Test strip",0.03,FALSE
+Synthea,MEASUREMENT,3011505,"FEV1/FVC",0.15,TRUE
+Synthea,MEASUREMENT,3012030,"MCH [Entitic mass] by Automated count",0.07,FALSE
+Synthea,MEASUREMENT,3012494,"Peanut IgE Ab [Units/volume] in Serum",0.14,TRUE
+Synthea,MEASUREMENT,3012888,"Diastolic blood pressure",0.14,TRUE
+Synthea,MEASUREMENT,3013603,"Prostate specific Ag [Mass/volume] in Serum or Plasma",0.21,TRUE
+Synthea,MEASUREMENT,3013682,"Urea nitrogen [Mass/volume] in Serum or Plasma",0.1,TRUE
+Synthea,MEASUREMENT,3013721,"Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma",0.13,TRUE
+Synthea,MEASUREMENT,3014051,"Protein [Presence] in Urine by Test strip",0.03,FALSE
+Synthea,MEASUREMENT,3014094,"Carbon dioxide, total [Moles/volume] in Blood",0.04,FALSE
+Synthea,MEASUREMENT,3014576,"Chloride [Moles/volume] in Serum or Plasma",0.1,TRUE
+Synthea,MEASUREMENT,3014599,"Egg white IgE Ab [Units/volume] in Serum",0.14,TRUE
+Synthea,MEASUREMENT,3014902,"Physical findings of Prostate",0.21,TRUE
+Synthea,MEASUREMENT,3015076,"Soybean IgE Ab [Units/volume] in Serum",0.14,TRUE
+Synthea,MEASUREMENT,3015182,"Erythrocyte distribution width [Entitic volume] by Automated count",0.04,FALSE
+Synthea,MEASUREMENT,3015632,"Carbon dioxide, total [Moles/volume] in Serum or Plasma",0.1,TRUE
+Synthea,MEASUREMENT,3016502,"Oxygen saturation in Arterial blood",0.15,TRUE
+Synthea,MEASUREMENT,3016723,"Creatinine [Mass/volume] in Serum or Plasma",0.1,TRUE
+Synthea,MEASUREMENT,3018572,"Chloride [Moles/volume] in Blood",0.04,FALSE
+Synthea,MEASUREMENT,3018834,"Bilirubin.total [Presence] in Urine by Test strip",0.03,FALSE
+Synthea,MEASUREMENT,3019406,"Latex IgE Ab [Units/volume] in Serum",0.14,TRUE
+Synthea,MEASUREMENT,3019550,"Sodium [Moles/volume] in Serum or Plasma",0.1,TRUE
+Synthea,MEASUREMENT,3019897,"Erythrocyte distribution width [Ratio] by Automated count",0.1,TRUE
+Synthea,MEASUREMENT,3020416,"Erythrocytes [#/volume] in Blood by Automated count",0.07,FALSE
+Synthea,MEASUREMENT,3020630,"Protein [Mass/volume] in Serum or Plasma",0.13,TRUE
+Synthea,MEASUREMENT,3020655,"Honey bee IgE Ab [Units/volume] in Serum",0.14,TRUE
+Synthea,MEASUREMENT,3020891,"Body temperature",0.41,FALSE
+Synthea,MEASUREMENT,3021044,"Iron binding capacity [Mass/volume] in Serum or Plasma",0.1,TRUE
+Synthea,MEASUREMENT,3021226,"Shrimp IgE Ab [Units/volume] in Serum",0.14,TRUE
+Synthea,MEASUREMENT,3021601,"Nitrite [Presence] in Urine by Test strip",0.03,FALSE
+Synthea,MEASUREMENT,3022192,"Triglyceride [Mass/volume] in Serum or Plasma",0.04,FALSE
+Synthea,MEASUREMENT,3022621,"pH of Urine by Test strip",0.03,FALSE
+Synthea,MEASUREMENT,3023103,"Potassium [Moles/volume] in Serum or Plasma",0.1,TRUE
+Synthea,MEASUREMENT,3023314,"Hematocrit [Volume Fraction] of Blood by Automated count",0.07,FALSE
+Synthea,MEASUREMENT,3023430,"Cat dander IgE Ab [Units/volume] in Serum",0.14,TRUE
+Synthea,MEASUREMENT,3023539,"Ketones [Mass/volume] in Urine by Test strip",0.03,FALSE
+Synthea,MEASUREMENT,3023599,"MCV [Entitic volume] by Automated count",0.07,FALSE
+Synthea,MEASUREMENT,3024128,"Bilirubin.total [Mass/volume] in Serum or Plasma",0.13,TRUE
+Synthea,MEASUREMENT,3024171,"Respiratory rate",0.14,TRUE
+Synthea,MEASUREMENT,3024561,"Albumin [Mass/volume] in Serum or Plasma",0.13,TRUE
+Synthea,MEASUREMENT,3024629,"Glucose [Mass/volume] in Urine by Test strip",0.03,FALSE
+Synthea,MEASUREMENT,3024929,"Platelets [#/volume] in Blood by Automated count",0.07,FALSE
+Synthea,MEASUREMENT,3025315,"Body weight",0.14,TRUE
+Synthea,MEASUREMENT,3027018,"Heart rate",0.14,TRUE
+Synthea,MEASUREMENT,3027114,"Cholesterol [Mass/volume] in Serum or Plasma",0.04,FALSE
+Synthea,MEASUREMENT,3027162,"Color of Urine",0.03,FALSE
+Synthea,MEASUREMENT,3027172,"Left ventricular Ejection fraction",0.12,TRUE
+Synthea,MEASUREMENT,3027231,"Wheat IgE Ab [Units/volume] in Serum",0.14,TRUE
+Synthea,MEASUREMENT,3027970,"Globulin [Mass/volume] in Serum by calculation",0.09,FALSE
+Synthea,MEASUREMENT,3029187,"Natriuretic peptide.B prohormone N-Terminal [Mass/volume] in Serum or Plasma",0.1,TRUE
+Synthea,MEASUREMENT,3030315,"Polyp size greatest dimension",0.13,TRUE
+Synthea,MEASUREMENT,3032503,"Calcium [Mass/volume] in Blood",0.04,FALSE
+Synthea,MEASUREMENT,3035350,"Ketones [Presence] in Urine by Test strip",0.03,FALSE
+Synthea,MEASUREMENT,3035995,"Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma",0.13,TRUE
+Synthea,MEASUREMENT,3036277,"Body height",0.13,FALSE
+Synthea,MEASUREMENT,3036780,"American house dust mite IgE Ab [Units/volume] in Serum",0.14,TRUE
+Synthea,MEASUREMENT,3038553,"Body mass index (BMI) [Ratio]",0.04,FALSE
+Synthea,MEASUREMENT,3043111,"Platelet mean volume [Entitic volume] in Blood by Automated count",0.04,FALSE
+Synthea,MEASUREMENT,3049273,"DXA Radius and Ulna [T-score] Bone density",0.18,TRUE
+Synthea,MEASUREMENT,3051825,"Creatinine [Mass/volume] in Blood",0.04,FALSE
+Synthea,MEASUREMENT,4014117,"Gonorrhea infection titer test",0.07,FALSE
+Synthea,MEASUREMENT,4015052,"Hemogram, automated, with RBC, WBC, Hgb, Hct, Indices, Platelet count, and manual WBC differential",0.05,FALSE
+Synthea,MEASUREMENT,4018595,"Measurement of Varicella-zoster virus antibody",0.07,FALSE
+Synthea,MEASUREMENT,4018603,"Hepatitis C antibody, confirmatory test",0.07,FALSE
+Synthea,MEASUREMENT,4024509,"Urine culture",0.07,FALSE
+Synthea,MEASUREMENT,4024958,"Throat culture",0.09,FALSE
+Synthea,MEASUREMENT,4033233,"Peripheral blood smear interpretation",0.11,FALSE
+Synthea,MEASUREMENT,4041881,"Urine protein test",0.07,FALSE
+Synthea,MEASUREMENT,4052083,"Measurement of respiratory function",0.06,FALSE
+Synthea,MEASUREMENT,4060266,"Antenatal RhD antibody screening",0.21,TRUE
+Synthea,MEASUREMENT,4078285,"Alpha-fetoprotein test - antenatal",0.08,FALSE
+Synthea,MEASUREMENT,4091461,"Standard pregnancy test",0.03,FALSE
+Synthea,MEASUREMENT,4102154,"Skin test for tuberculosis, Tine test",0.07,FALSE
+Synthea,MEASUREMENT,4133840,"Spirometry",0.15,TRUE
+Synthea,MEASUREMENT,4136494,"HIV antigen test",0.07,FALSE
+Synthea,MEASUREMENT,4149386,"Urine screening for glucose",0.06,FALSE
+Synthea,MEASUREMENT,4149631,"Chlamydia antigen test",0.07,FALSE
+Synthea,MEASUREMENT,4151408,"Syphilis infectious titer test",0.07,FALSE
+Synthea,MEASUREMENT,4168615,"Hepatitis B surface antigen measurement",0.07,FALSE
+Synthea,MEASUREMENT,4191851,"Urine screening test for diabetes",0.07,FALSE
+Synthea,MEASUREMENT,4258677,"Blood group typing",0.07,FALSE
+Synthea,MEASUREMENT,4304821,"Streptococcus pneumoniae group B antigen assay",0.07,FALSE
+Synthea,MEASUREMENT,36306105,"Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method",0.1,TRUE
+Synthea,MEASUREMENT,40761014,"Hemoglobin.gastrointestinal.lower [Presence] in Stool by Immunoassay --1st specimen",0.13,TRUE
+Synthea,MEASUREMENT,40762638,"Body mass index (BMI) [Percentile] Per age and sex",0.04,FALSE
+Synthea,MEASUREMENT,40768439,"Drugs of abuse 5 panel - Urine by Screen method",0.4,TRUE
+Synthea,MEASUREMENT,43055141,"Pain severity - 0-10 verbal numeric rating [Score] - Reported",0.12,FALSE
+Synthea,MEASUREMENT,44786664,"Weight difference [Mass difference] --pre dialysis - post dialysis",0.03,FALSE
+Synthea,MEASUREMENT,46236327,"Weight-for-length Per age and sex",0.45,TRUE
+Synthea,MEASUREMENT,46236952,"Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum, Plasma or Blood by Creatinine-based formula (MDRD)",0.07,FALSE
+Synthea,OBSERVATION,433644,"Allergy to shellfish",0.29,TRUE
+Synthea,OBSERVATION,438614,"Allergy to nut",0.4,TRUE
+Synthea,OBSERVATION,439406,"Allergy to animal dander",0.21,TRUE
+Synthea,OBSERVATION,1175723,"What number best describes how pain has interfered with your enjoyment of life during the past week",0.34,TRUE
+Synthea,OBSERVATION,1175797,"What number best describes how pain has interfered with your general activity during the past week",0.34,TRUE
+Synthea,OBSERVATION,3037141,"Abuse Status [OMAHA]",0.13,FALSE
+Synthea,OBSERVATION,3051031,"History of Hospitalizations+Outpatient visits Narrative",0.13,FALSE
+Synthea,OBSERVATION,4048169,"Allergy to dust mite protein",0.2,TRUE
+Synthea,OBSERVATION,4060985,"Body mass index 30+ - obesity",0.15,TRUE
+Synthea,OBSERVATION,4174876,"Allergy to bee venom",0.25,TRUE
+Synthea,OBSERVATION,4219399,"Allergy to fish",0.31,TRUE
+Synthea,OBSERVATION,4240902,"Allergy to peanut",0.27,TRUE
+Synthea,OBSERVATION,4302207,"Allergy to grass pollen",0.18,TRUE
+Synthea,OBSERVATION,4304110,"Allergy to mold",0.25,TRUE
+Synthea,OBSERVATION,4306014,"Allergy to tree pollen",0.18,TRUE
+Synthea,OBSERVATION,4323208,"History of appendectomy",0.21,TRUE
+Synthea,OBSERVATION,4324181,"History of cardiac arrest",0.26,TRUE
+Synthea,OBSERVATION,36304558,"Objective assessment of cardiovascular disease NYHA",0.22,TRUE
+Synthea,OBSERVATION,36305408,"Response to cancer treatment",0.14,TRUE
+Synthea,OBSERVATION,36305765,"Functional capacity NYHA",0.22,TRUE
+Synthea,OBSERVATION,40758406,"HIV status",0.13,FALSE
+Synthea,OBSERVATION,40766240,"Are you covered by health insurance or some other kind of health care plan [PhenX]",0.13,FALSE
+Synthea,OBSERVATION,40771960,"Cause of death [US Standard Certificate of Death]",0.16,TRUE
+Synthea,OBSERVATION,42869557,"Housing status",0.13,FALSE
+Synthea,OBSERVATION,42869860,"Total score [MMSE]",0.17,TRUE
+Synthea,OBSERVATION,43054909,"Tobacco smoking status",0.12,FALSE
+Synthea,OBSERVATION,45766064,"History of single seizure",0.42,TRUE
+Synthea,OBSERVATION,46234710,"Symptom",0.22,TRUE
+Synthea,OBSERVATION,46235214,"Sexual orientation",0.13,FALSE
+Synthea,OBSERVATION,46235652,"Pain severity in the past week - 0-10 numeric rating [Reported]",0.34,TRUE
+Synthea,PROCEDURE_OCCURRENCE,4015590,"Counseling for termination of pregnancy",0.15,TRUE
+Synthea,PROCEDURE_OCCURRENCE,4015701,"Cesarean section",0.29,TRUE
+Synthea,PROCEDURE_OCCURRENCE,4018619,"Screening for occult blood in feces",0.13,TRUE
+Synthea,PROCEDURE_OCCURRENCE,4024289,"Radiography of ankle",0.27,TRUE
+Synthea,PROCEDURE_OCCURRENCE,4035793,"Pulmonary rehabilitation",0.21,TRUE
+Synthea,PROCEDURE_OCCURRENCE,4037675,"Brief general examination",0.11,FALSE
+Synthea,PROCEDURE_OCCURRENCE,4043071,"Cognitive and behavioral therapy",0.12,TRUE
+Synthea,PROCEDURE_OCCURRENCE,4047491,"Radiography of humerus",0.08,TRUE
+Synthea,PROCEDURE_OCCURRENCE,4057420,"Catheter ablation of tissue of heart",0.08,TRUE
+Synthea,PROCEDURE_OCCURRENCE,4058899,"Plain X-ray of clavicle",0.2,TRUE
+Synthea,PROCEDURE_OCCURRENCE,4059978,"Insertion of subcutaneous contraceptive",0.12,FALSE
+Synthea,PROCEDURE_OCCURRENCE,4060626,"Ultrasound scan for fetal viability",0.03,FALSE
+Synthea,PROCEDURE_OCCURRENCE,4064377,"Depression screening",0.08,FALSE
+Synthea,PROCEDURE_OCCURRENCE,4075363,"Auscultation of the fetal heart",0.03,FALSE
+Synthea,PROCEDURE_OCCURRENCE,4078199,"Epidural anesthesia",0.14,TRUE
+Synthea,PROCEDURE_OCCURRENCE,4078793,"Direct current cardioversion",0.06,FALSE
+Synthea,PROCEDURE_OCCURRENCE,4107731,"Subcutaneous immunotherapy",0.03,FALSE
+Synthea,PROCEDURE_OCCURRENCE,4125906,"Suture open wound",0.11,FALSE
+Synthea,PROCEDURE_OCCURRENCE,4127260,"Augmentation of labor",0.29,FALSE
+Synthea,PROCEDURE_OCCURRENCE,4134565,"Hearing examination",0.02,FALSE
+Synthea,PROCEDURE_OCCURRENCE,4146053,"Manual pelvic examination",0.29,TRUE
+Synthea,PROCEDURE_OCCURRENCE,4146536,"Renal dialysis",0.03,FALSE
+Synthea,PROCEDURE_OCCURRENCE,4150653,"Fetal anatomy study",0.08,FALSE
+Synthea,PROCEDURE_OCCURRENCE,4150970,"Medical induction of labor",0.2,TRUE
+Synthea,PROCEDURE_OCCURRENCE,4151422,"Sputum examination",0.08,TRUE
+Synthea,PROCEDURE_OCCURRENCE,4162736,"Oxygen administration by mask",0.15,TRUE
+Synthea,PROCEDURE_OCCURRENCE,4163708,"Vaccination for diphtheria, pertussis, and tetanus",0.06,FALSE
+Synthea,PROCEDURE_OCCURRENCE,4163872,"Plain chest X-ray",0.47,TRUE
+Synthea,PROCEDURE_OCCURRENCE,4163951,"Electrocardiographic procedure",0.11,TRUE
+Synthea,PROCEDURE_OCCURRENCE,4166761,"Rectal polypectomy",0.12,TRUE
+Synthea,PROCEDURE_OCCURRENCE,4168236,"Evaluation of uterine fundal height",0.03,FALSE
+Synthea,PROCEDURE_OCCURRENCE,4170947,"Bone immobilization",0.15,TRUE
+Synthea,PROCEDURE_OCCURRENCE,4181917,"Electroencephalogram",0.87,TRUE
+Synthea,PROCEDURE_OCCURRENCE,4186930,"Replacement of intrauterine contraceptive device",0.17,TRUE
+Synthea,PROCEDURE_OCCURRENCE,4187458,"Review of systems",0.11,FALSE
+Synthea,PROCEDURE_OCCURRENCE,4191853,"Allergy screening test",0.14,TRUE
+Synthea,PROCEDURE_OCCURRENCE,4195645,"Rubella screening test",0.07,FALSE
+Synthea,PROCEDURE_OCCURRENCE,4195803,"Bone density scan",0.17,TRUE
+Synthea,PROCEDURE_OCCURRENCE,4196006,"Placing subject in prone position",0.15,TRUE
+Synthea,PROCEDURE_OCCURRENCE,4199276,"Removal of subcutaneous contraceptive",0.17,FALSE
+Synthea,PROCEDURE_OCCURRENCE,4199458,"Passive immunization",0.11,TRUE
+Synthea,PROCEDURE_OCCURRENCE,4202451,"Percutaneous mechanical thrombectomy of portal vein using fluoroscopic guidance",0.22,TRUE
+Synthea,PROCEDURE_OCCURRENCE,4230911,"Echocardiography",0.1,TRUE
+Synthea,PROCEDURE_OCCURRENCE,4234541,"Cytopathology procedure, preparation of smear, genital source",0.07,FALSE
+Synthea,PROCEDURE_OCCURRENCE,4238715,"Removal of intrauterine device",0.14,TRUE
+Synthea,PROCEDURE_OCCURRENCE,4240345,"Physical examination",0.06,FALSE
+Synthea,PROCEDURE_OCCURRENCE,4243062,"Radiography of wrist",0.27,TRUE
+Synthea,PROCEDURE_OCCURRENCE,4249893,"Colonoscopy",0.06,FALSE
+Synthea,PROCEDURE_OCCURRENCE,4254766,"Digital examination of rectum",0.21,TRUE
+Synthea,PROCEDURE_OCCURRENCE,4273629,"Chemotherapy",0.1,FALSE
+Synthea,PROCEDURE_OCCURRENCE,4275113,"Insertion of intrauterine contraceptive device",0.1,FALSE
+Synthea,PROCEDURE_OCCURRENCE,4276519,"Extraction of wisdom tooth",0.13,TRUE
+Synthea,PROCEDURE_OCCURRENCE,4293740,"Injection of tetanus antitoxin",0.23,TRUE
+Synthea,PROCEDURE_OCCURRENCE,4295880,"Intramuscular injection",0.08,FALSE
+Synthea,PROCEDURE_OCCURRENCE,4309550,"Heart failure education",0.12,TRUE
+Synthea,PROCEDURE_OCCURRENCE,4311671,"Episiotomy",0.18,FALSE
+Synthea,PROCEDURE_OCCURRENCE,4324693,"Mammography",0.19,FALSE
+Synthea,PROCEDURE_OCCURRENCE,4326177,"Medication Reconciliation",0.04,FALSE
+Synthea,PROCEDURE_OCCURRENCE,35621760,"Assessment using New York Heart Association Classification",0.2,TRUE
+Synthea,PROCEDURE_OCCURRENCE,36713048,"High resolution computed tomography of chest without contrast",0.02,FALSE
+Synthea,PROCEDURE_OCCURRENCE,37018340,"Induced termination of pregnancy",0.15,TRUE
+Synthea,PROCEDURE_OCCURRENCE,40481948,"Detection of chromosomal aneuploidy in prenatal amniotic fluid specimen using FISH screening technique",0.09,FALSE
+Synthea,PROCEDURE_OCCURRENCE,45766298,"Combined chemotherapy and radiation therapy",0.03,FALSE
+Synthea,VISIT_OCCURRENCE,9201,"Inpatient Visit",0.06,TRUE
+Synthea,VISIT_OCCURRENCE,9202,"Outpatient Visit",0.03,TRUE
+Synthea,VISIT_OCCURRENCE,9203,"Emergency Room Visit",0.23,TRUE

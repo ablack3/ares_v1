@@ -1,0 +1,56 @@
+DBMS:
+postgresql
+
+Error:
+org.postgresql.util.PSQLException: ERROR: syntax error at or near "OFFSET"
+  Position: 274
+
+SQL:
+
+/*********
+FIELD LEVEL check:
+CDM_FIELD - verify the field exists
+
+Parameters used in this template:
+cdmDatabaseSchema = s20210203_cdm_v531
+cdmTableName = NOTE_NLP
+cdmFieldName = OFFSET
+
+**********/
+
+
+SELECT num_violated_rows, CASE WHEN denominator.num_rows = 0 THEN 0 ELSE 1.0*num_violated_rows/denominator.num_rows END AS pct_violated_rows, 
+  denominator.num_rows as num_denominator_rows
+FROM
+(
+  select num_violated_rows from
+  (
+    select
+      case when COUNT(OFFSET) = 0 then 0
+      else 0
+    end as num_violated_rows
+    from s20210203_cdm_v531.NOTE_NLP cdmTable
+  ) violated_rows
+) violated_row_count,
+( 
+	SELECT 1 as num_rows
+) denominator
+;
+
+R version:
+R version 4.0.4 (2021-02-15)
+
+Platform:
+x86_64-w64-mingw32
+
+Attached base packages:
+- stats
+- graphics
+- grDevices
+- utils
+- datasets
+- methods
+- base
+
+Other attached packages:
+- magrittr (2.0.1)
